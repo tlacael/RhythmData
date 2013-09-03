@@ -1,0 +1,642 @@
+(lp1
+S'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 11 - Abre a Janela.mp3'
+p2
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 2 - Seguir Em Frente.mp3'
+p3
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 1 - De Bem Com a Vida.mp3'
+p4
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 02 - Alo\xcc\x82 Mulherada.mp3'
+p5
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 2 - Magia E Miste\xcc\x81rio.mp3'
+p6
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 12 - Se tiver coragem, joga fora.mp3'
+p7
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 3 - Ta\xcc\x81 no Meu Corac\xcc\xa7a\xcc\x83o.mp3'
+p8
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 9 - Cerca de Espinho.mp3'
+p9
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 8 - Vou Tentar Ser Hero\xcc\x81i.mp3'
+p10
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 7 - Te Quero pra Mim.mp3'
+p11
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 10 - A Matogrossense.mp3'
+p12
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 15 - Mil Vezes Cantarei - Una Y Mil Veces.mp3'
+p13
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 9 - Quere\xcc\x82ncia Amada.mp3'
+p14
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 13 - O Amor e\xcc\x81 Cego.mp3'
+p15
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 1 - Inevita\xcc\x81vel.mp3'
+p16
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 10 - Deixa a Paixa\xcc\x83o te Levar.mp3'
+p17
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 9 - To\xcc\x82 Por Ai\xcc\x81.mp3'
+p18
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 5 - Diz pra\xcc\x81 mim.mp3'
+p19
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 8 - Cunhado - Fale com seu irma\xcc\x83o.mp3'
+p20
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 7 - Te Dou o Mundo.mp3'
+p21
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 6 - Por Amar Essa Mulher.mp3'
+p22
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 12 - Desculpe, mas eu vou chorar.mp3'
+p23
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 5 - Tonta\xcc\x83o.mp3'
+p24
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 14 - Corac\xcc\xa7a\xcc\x83o Quer Te Encontrar.mp3'
+p25
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 4 - Na\xcc\x83o Tem Dia, Na\xcc\x83o Tem Hora.mp3'
+p26
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 17 - Aqueles Olhos.mp3'
+p27
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 4 - Anjo Loiro.mp3'
+p28
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 7 - Eu Gosto De Mulher.mp3'
+p29
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 11 - Psiu.mp3'
+p30
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 7 - Explode corac\xcc\xa7a\xcc\x83o.mp3'
+p31
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 5 - Hei voce\xcc\x82 ai\xcc\x81.mp3'
+p32
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 1 - Um Pou\xcc\x81co Gau\xcc\x81cho.mp3'
+p33
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 13 - Meu presente e voce.mp3'
+p34
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 5 - Mulher boa.mp3'
+p35
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 2 - La\xcc\x81grimas Do Corac\xcc\xa7a\xcc\x83o.mp3'
+p36
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 1 - So\xcc\x81 Pensando Em Voce\xcc\x82.mp3'
+p37
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 13 - Bebo Pa Carai & No\xcc\x81is Enverga Mais Na\xcc\x83o Quebra & Mul.mp3'
+p38
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 12 - Esperando na Janela.mp3'
+p39
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 12 - Raridade.mp3'
+p40
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 7 - Festa de Pea\xcc\x83o.mp3'
+p41
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 6 - Valeu Esperar.mp3'
+p42
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 6 - Rumo a Goiania.mp3'
+p43
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 6 - Feito eu.mp3'
+p44
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 11 - Fui Eu.mp3'
+p45
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 6 - Apaixonado Por Voce\xcc\x82.mp3'
+p46
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 11 - Foi Deus.mp3'
+p47
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 4 - O Amor E Eu.mp3'
+p48
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 6 - O Amor esta\xcc\x81 aqui.mp3'
+p49
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 6 - Na\xcc\x83o tem dia, Na\xcc\x83o tem hora.mp3'
+p50
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 4 - A\xcc\x81tomo.mp3'
+p51
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 12 - Apuros.mp3'
+p52
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 7 - Deixa Eu Te Amar.mp3'
+p53
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 8 - Vem Brincar De Amar.mp3'
+p54
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 18 - Menina.mp3'
+p55
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 14 - Paguei Pra Ver.mp3'
+p56
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 3 - Pense em mim.mp3'
+p57
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 19 - Vai dar namoro.mp3'
+p58
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 1 - Corac\xcc\xa7a\xcc\x83o, Chora de Saudade.mp3'
+p59
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 12 - Filha.mp3'
+p60
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 17 - Pense Em Mim.mp3'
+p61
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 4 - To\xcc\x82 Querendo Mais.mp3'
+p62
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 6 - Duas Metades.mp3'
+p63
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 6 - Vivendo Abandonado.mp3'
+p64
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 12 - Blusa Vermelha & U\xcc\x81ltimo Adeus.mp3'
+p65
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 14 - Nos Bares Da Cidade.mp3'
+p66
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 7 - Bandida.mp3'
+p67
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 8 - Entre Tapas E Beijos.mp3'
+p68
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 13 - Corac\xcc\xa7a\xcc\x83o de Mulher.mp3'
+p69
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 1 - Anna Ju\xcc\x81lia.mp3'
+p70
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 4 - Essa Paixa\xcc\x83o Me Machucou.mp3'
+p71
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 4 - Deixa.mp3'
+p72
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 4 - Por tra\xcc\x81s da chuva.mp3'
+p73
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro e Sampaio - Mulher Chorona - CD2 - 10 - Pea\xcc\x83o Azarado.mp3'
+p74
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 19 - Ta\xcc\x81 Mentindo.mp3'
+p75
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 16 - So\xcc\x81 Alegria.mp3'
+p76
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 10 - A Gente se Entrega.mp3'
+p77
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 7 - Toco da saia.mp3'
+p78
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 5 - Festa Louca.mp3'
+p79
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 1 - Mulher Chorona.mp3'
+p80
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 11 - Namorada do carinha.mp3'
+p81
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 6 - Maria Pensa\xcc\x83o.mp3'
+p82
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 13 - Frio da Madrugada.mp3'
+p83
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 8 - Vai Chover Mulher.mp3'
+p84
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 6 - O tocador.mp3'
+p85
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 3 - Pra Que Chorar.mp3'
+p86
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 12 - Chora Viola.mp3'
+p87
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 5 - Tra\xcc\x82nsito Parado.mp3'
+p88
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 2 - Fui Eu.mp3'
+p89
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 13 - Nossa histo\xcc\x81ria.mp3'
+p90
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 15 - Ricarda\xcc\x83o.mp3'
+p91
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 3 - Quando a Saudade Aperta.mp3'
+p92
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 17 - Bate o Pe\xcc\x81.mp3'
+p93
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 15 - Vendavais.mp3'
+p94
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 8 - Eu nunca amei uma mulher assim.mp3'
+p95
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 6 - Clima de Rodeio.mp3'
+p96
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 13 - Ligac\xcc\xa7a\xcc\x83o Urbana.mp3'
+p97
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 14 - I\xcc\x81ndia.mp3'
+p98
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 3 - Pinga na Ve\xcc\x81ia.mp3'
+p99
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 3 - Solida\xcc\x83o e Saudade.mp3'
+p100
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 14 - Uma grande mentira.mp3'
+p101
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 13 - La\xcc\x81grimas Geladas.mp3'
+p102
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 9 - Lenha.mp3'
+p103
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 18 - So\xcc\x81 Fazendo Amor.mp3'
+p104
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 15 - Na Sola da Bota.mp3'
+p105
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 13 - Cara De Pau.mp3'
+p106
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 11 - Preciso Desse Amor.mp3'
+p107
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 12 - E\xcc\x81 Amor, e\xcc\x81 Paixa\xcc\x83o.mp3'
+p108
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 8 - Chega Junto.mp3'
+p109
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 7 - Chocolate com pimenta.mp3'
+p110
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 12 - Talvez Voce\xcc\x82 Se Lembre.mp3'
+p111
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 15 - Apaixonado.com.mp3'
+p112
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 13 - O Cheiro Da Mac\xcc\xa7a\xcc\x83.mp3'
+p113
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 3 - A noite do nosso amor.mp3'
+p114
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 16 - Vou Ganhar Voce\xcc\x82.mp3'
+p115
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 10 - Ela E\xcc\x81 Demais.mp3'
+p116
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 7 - Tendel.mp3'
+p117
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 6 - Corac\xcc\xa7a\xcc\x83o De Mulher.mp3'
+p118
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 10 - Quantas Lembranc\xcc\xa7as.mp3'
+p119
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 7 - Para sempre.mp3'
+p120
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 13 - Mulher Carente.mp3'
+p121
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 4 - So\xcc\x81 Alegria.mp3'
+p122
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 14 - Bobeou, Ta\xcc\x81 na Poeira.mp3'
+p123
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 2 - Esquec\xcc\xa7a que Eu Te Amo.mp3'
+p124
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 16 - Pra\xcc\x81 Nunca Dizer Adeus.mp3'
+p125
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 2 - Balanc\xcc\xa7a, Mas Na\xcc\x83o Cai.mp3'
+p126
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 4 - Horizonte Azul.mp3'
+p127
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 21 - Talisma\xcc\x83.mp3'
+p128
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 2 - Uma vez por me\xcc\x82s.mp3'
+p129
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 5 - Solte a Garganta.mp3'
+p130
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 9 - Voce\xcc\x82 Chegou e Abalou.mp3'
+p131
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 1 - Alo\xcc\x82 Meu Povo.mp3'
+p132
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 11 - Lenha.mp3'
+p133
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 9 - Rei do gado.mp3'
+p134
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 5 - Faz mais, Faz.mp3'
+p135
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 14 - Esquec\xcc\xa7a que eu te amo.mp3'
+p136
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 3 - Movido Pela Emoc\xcc\xa7a\xcc\x83o.mp3'
+p137
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 12 - Sou Parada Dura.mp3'
+p138
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 8 - Vou Beber de Novo.mp3'
+p139
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 11 - O Carro Dela Quebrou.mp3'
+p140
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 13 - Eu de Ca\xcc\x81, Voce\xcc\x82 de La\xcc\x81.mp3'
+p141
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 3 - Amizade Gau\xcc\x81cha.mp3'
+p142
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 5 - Vestido de Seda.mp3'
+p143
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 10 - To\xcc\x82 Mal.mp3'
+p144
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 9 - Frio da Madrugada.mp3'
+p145
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 1 - Eu e o sabia\xcc\x81.mp3'
+p146
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 10 - Na\xcc\x83o aprendi dizer adeus.mp3'
+p147
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 4 - Casa, Comida.mp3'
+p148
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 8 - Paixa\xcc\x83o De Pea\xcc\x83o.mp3'
+p149
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 2 - Evide\xcc\x82ncias.mp3'
+p150
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 12 - Sonambulismo.mp3'
+p151
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 19 - Voce\xcc\x82 Ainda Vai Voltar.mp3'
+p152
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 11 - Cade\xcc\x82 Voce\xcc\x82.mp3'
+p153
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 7 - So\xcc\x81 Lembranc\xcc\xa7as.mp3'
+p154
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 1 - Sonho por sonho.mp3'
+p155
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 11 - A Culpa e sua.mp3'
+p156
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 15 - Na\xcc\x83o To\xcc\x82 Nem Ai.mp3'
+p157
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 4 - Esperando na Janela.mp3'
+p158
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 13 - Do Outro Lado Da Cidade.mp3'
+p159
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 11 - Bye Bye Tristeza.mp3'
+p160
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 9 - Filho da Tuta.mp3'
+p161
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 2 - E\xcc\x81 amor demais.mp3'
+p162
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 3 - Tonto de paixa\xcc\x83o.mp3'
+p163
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 4 - Brincar de ser feliz.mp3'
+p164
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 6 - Preciso Te Encontrar.mp3'
+p165
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 11 - Muleca.mp3'
+p166
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 7 - Rodovia\xcc\x81ria do Amor.mp3'
+p167
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 7 - Meu Destino te Escolheu.mp3'
+p168
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 9 - Ela fez minha cabec\xcc\xa7a.mp3'
+p169
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 11 - Amor e\xcc\x81 Ilusa\xcc\x83o.mp3'
+p170
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 8 - Pedac\xcc\xa7o de minha vida.mp3'
+p171
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 16 - O garrafa\xcc\x83o.mp3'
+p172
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 2 - Cuida do nosso amor.mp3'
+p173
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 4 - Meu Amor Brincou Comigo.mp3'
+p174
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 14 - Rodopiou.mp3'
+p175
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 11 - Gau\xcc\x81cho de Passo Fundo.mp3'
+p176
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 4 - O futuro e\xcc\x81 uma incerteza.mp3'
+p177
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 7 - Voce\xcc\x82 Quer Largar de Mim.mp3'
+p178
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 8 - Saudade Pulou no Peito.mp3'
+p179
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 15 - Mais Uma Vez Sozinho.mp3'
+p180
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 5 - Corac\xcc\xa7a\xcc\x83o.mp3'
+p181
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 2 - Clube do Batida\xcc\x83o.mp3'
+p182
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 5 - Foi.mp3'
+p183
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 10 - So\xcc\x81 to\xcc\x82 comendo.mp3'
+p184
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 10 - Pe\xcc\x81 de Pano.mp3'
+p185
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 4 - Duas vidas, dois amores.mp3'
+p186
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 10 - Na\xcc\x83o tem outro jeito.mp3'
+p187
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 5 - Berrante de ouro.mp3'
+p188
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 17 - Se na\xcc\x83o tivesse ido.mp3'
+p189
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 12 - A gente vai.mp3'
+p190
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 10 - Cai Na Real.mp3'
+p191
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 1 - Choram as rosas.mp3'
+p192
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 9 - Fica de Uma Vez.mp3'
+p193
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 1 - Paixa\xcc\x83o Proibida.mp3'
+p194
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 6 - Ela encasquetou.mp3'
+p195
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 9 - Te amar foi ilusa\xcc\x83o.mp3'
+p196
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 8 - Vai sofrer pra la.mp3'
+p197
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 12 - Corac\xcc\xa7a\xcc\x83o Blindado.mp3'
+p198
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 1 - Quem Sera\xcc\x81 Essa Mulher.mp3'
+p199
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 8 - Fogo Do Desejo.mp3'
+p200
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 8 - Meu Corac\xcc\xa7a\xcc\x83o.mp3'
+p201
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 1 - Galera Corac\xcc\xa7a\xcc\x83o.mp3'
+p202
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 1 - Vai Comec\xcc\xa7ar de Novo.mp3'
+p203
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 11 - Brinquino na Orelha.mp3'
+p204
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao vivo - 20 - Floresce.mp3'
+p205
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 8 - Entre tapas e beijos.mp3'
+p206
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 7 - Credo em Cruz & Ave Maria & Pra la\xcc\x81 que eu vou.mp3'
+p207
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 13 - Amor Desencontrado.mp3'
+p208
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 8 - Meu Disfarce.mp3'
+p209
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 3 - Fera Mansa.mp3'
+p210
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 18 - Estrela Guia & A Gente se Entrega.mp3'
+p211
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 5 - Parai\xcc\x81so.mp3'
+p212
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 14 - Eternos Companheiros.mp3'
+p213
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 3 - Sem Direc\xcc\xa7a\xcc\x83o.mp3'
+p214
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 14 - Vai Ser Pior Tentar Tentar Outra Vez.mp3'
+p215
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 14 - Silicone la\xcc\x81.mp3'
+p216
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 9 - Nuvem de Lagrimas.mp3'
+p217
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 10 - Nem ilusa\xcc\x83o.mp3'
+p218
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 9 - Baby.mp3'
+p219
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 3 - Ta no meu corac\xcc\xa7a\xcc\x83o.mp3'
+p220
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 2 - Zoia\xcc\x83o.mp3'
+p221
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 2 - Hoje eu posso chorar.mp3'
+p222
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 1 - Balanc\xcc\xa7ou, Sacudiu.mp3'
+p223
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 3 - Quer casar comigo.mp3'
+p224
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 3 - Na Sola da Bota.mp3'
+p225
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 9 - Pra Enganar O Meu Corac\xcc\xa7a\xcc\x83o.mp3'
+p226
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 3 - Ajeite o Trem Ai\xcc\x81.mp3'
+p227
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 12 - Planeta Azul.mp3'
+p228
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 5 - O Grito da Galera.mp3'
+p229
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 12 - Bebo e Choro.mp3'
+p230
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 7 - Por te amar Demais.mp3'
+p231
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 16 - Ainda Ontem Chorei de Saudade.mp3'
+p232
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 5 - Corac\xcc\xa7a\xcc\x83o Sertanejo.mp3'
+p233
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 4 - Ela vai voltar.mp3'
+p234
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 13 - Telefone no Ar.mp3'
+p235
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 12 - Chega Junto e Solta a Voz.mp3'
+p236
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 20 - Desculpe, Mas Eu Vou Chorar.mp3'
+p237
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 7 - Aqueles Olhos.mp3'
+p238
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 10 - Sera\xcc\x81.mp3'
+p239
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 2 - Aconteceu comigo.mp3'
+p240
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 3 - No Limite Da Saudade.mp3'
+p241
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 2 - Agora vai & Passou da Conta.mp3'
+p242
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 6 - Nem Ai\xcc\x81.mp3'
+p243
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 15 - Se na\xcc\x83o for por amor.mp3'
+p244
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 14 - E Pra Sempre Te Amar.mp3'
+p245
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 1 - Eu na\xcc\x83o sei dizer que eu na\xcc\x83o te amo.mp3'
+p246
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 8 - Pa\xcc\x81gina virada.mp3'
+p247
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 1 - A Minha Histo\xcc\x81ria.mp3'
+p248
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 15 - Campea\xcc\x83o do Mile\xcc\x82nio.mp3'
+p249
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 2 - Onde foi que eu errei.mp3'
+p250
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 18 - Eu Sem Voce\xcc\x82.mp3'
+p251
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 5 - Voce\xcc\x82 E\xcc\x81 Tudo Que Eu Queria.mp3'
+p252
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 17 - Garanha\xcc\x83o da madrugada.mp3'
+p253
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 13 - Na mira do chifrudo.mp3'
+p254
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 9 - Teu Olhar.mp3'
+p255
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 15 - Palmas Pro Amor.mp3'
+p256
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 9 - Abre a Janela.mp3'
+p257
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 13 - Perdoa-me.mp3'
+p258
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 2 - Amor Desencontrado.mp3'
+p259
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 4 - Quarto Negro.mp3'
+p260
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 11 - Lenha.mp3'
+p261
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 6 - Ela Foi Embora.mp3'
+p262
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 11 - Vai dar Tudo Certo.mp3'
+p263
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 6 - Porque choras.mp3'
+p264
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - No Limite Da Saudade - 1 - Jura.mp3'
+p265
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 2 - Temporal de La\xcc\x81grimas.mp3'
+p266
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 6 - Estrada.mp3'
+p267
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 12 - Por amar essa ilusa\xcc\x83o.mp3'
+p268
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 14 - Boiadeiro e Violeiro.mp3'
+p269
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 15 - Agora Aguenta No\xcc\x81is.mp3'
+p270
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 7 - Caminhoneiro.mp3'
+p271
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 15 - Sonhos Perdidos.mp3'
+p272
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 5 - Sozinho Outra Vez.mp3'
+p273
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Duas Vidas, Dois Amores - 3 - Assovia.mp3'
+p274
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 5 - Desafio do Grenal.mp3'
+p275
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 4 - So\xcc\x81 Alegria.mp3'
+p276
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 13 - Vem fazer amor comigo.mp3'
+p277
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 6 - Na\xcc\x83o To\xcc\x82 Nem Ai\xcc\x81.mp3'
+p278
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 18 - Depois de Voce\xcc\x82.mp3'
+p279
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 8 - Namorar e Chupar Cana.mp3'
+p280
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 14 - Paixa\xcc\x83o de Milha\xcc\x83o.mp3'
+p281
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o ao Vivo - 10 - Amor Demais.mp3'
+p282
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 19 - Instante Ma\xcc\x81gico.mp3'
+p283
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 7 - Na\xcc\x83o olhe assim.mp3'
+p284
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - Roda de Viola - 10 - Rei do gado.mp3'
+p285
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rick & Renner - Acu\xcc\x81stico - 10 Anos De Sucesso - 5 - Fim De Semana.mp3'
+p286
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Sonho por Sonho - 11 - Eu Juro.mp3'
+p287
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 14 - O caldeira\xcc\x83o vai ferver.mp3'
+p288
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 1 - Pura emoc\xcc\xa7a\xcc\x83o.mp3'
+p289
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 20 - Bate o Pe\xcc\x81.mp3'
+p290
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 16 - Grito de Alerta.mp3'
+p291
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 9 - Que pescar que nada.mp3'
+p292
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 10 - So\xcc\x81 Dou Carona Pra\xcc\x81 quem Deu Pra\xcc\x81 Mim.mp3'
+p293
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 9 - Amor e Ilusa\xcc\x83o.mp3'
+p294
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 5 - De Sa\xcc\x83o Paulo a Bele\xcc\x81m.mp3'
+p295
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 10 - Cada Vez Mais.mp3'
+p296
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Zeze\xcc\x81 Di Camargo & Luciano - Zeze\xcc\x81 Di Camargo & Luciano - 10 - Mil Anos de Amor.mp3'
+p297
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 12 - Deixa a paixa\xcc\x83o entrar.mp3'
+p298
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 8 - De Bem com a Vida.mp3'
+p299
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 5 - Virou Paixa\xcc\x83o.mp3'
+p300
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 19 - To\xcc\x82 por Ai\xcc\x81.mp3'
+p301
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 10 - O homem quando ama.mp3'
+p302
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 3 - Corac\xcc\xa7a\xcc\x83o de Pedra.mp3'
+p303
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 2 - Po\xcc\x83e e Tria.mp3'
+p304
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD2 - 2 - A Gostosona.mp3'
+p305
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 3 - Quebra Esse Gelo.mp3'
+p306
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Chita\xcc\x83ozinho & Xororo\xcc\x81 - O melhor de Chita\xcc\x83ozinho & Xororo\xcc\x81 - 3 - Baila\xcc\x83o de Pea\xcc\x83o.mp3'
+p307
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Guilherme & Santiago - Vol. 08 - 9 - So\xcc\x81 Faltava Voce\xcc\x82.mp3'
+p308
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Novo Milennium - 17 - Casa Cheia.mp3'
+p309
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 14 - Enta\xcc\x83o pode ir.mp3'
+p310
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 7 - Terra dos Pampas.mp3'
+p311
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - Clube do Batida\xcc\x83o - 14 - O Amor Me Pegou.mp3'
+p312
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Edson & Hudson - Galera Corac\xcc\xa7a\xcc\x83o - 1 - Galera Corac\xcc\xa7a\xcc\x83o.mp3'
+p313
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Ao Vivo - 11 - Por um Minuto.mp3'
+p314
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Anna Ju\xcc\x81lia - 9 - Ela mexe comigo.mp3'
+p315
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - So\xcc\x81 Alegria - 8 - Ta\xcc\x81 Mentindo.mp3'
+p316
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Feito Pra Danc\xcc\xa7ar - 14 - Vivendo longe do meu bem.mp3'
+p317
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Rio Negro & Solimo\xcc\x83es - De Bem Com a Vida - Ao Vivo - 10 - No Fim Desta Estrada.mp3'
+p318
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Teodoro & Sampaio - Mulher Chorona - CD1 - 4 - E\xcc\x81 Mentira Dela.mp3'
+p319
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Bruno & Marrone - Meu presente e\xcc\x81 voce\xcc\x82 - 4 - Por um gole a mais.mp3'
+p320
+aS'/Users/Tlacael/NYU/Latin_Music_Data/LMD/Sertaneja/Sertaneja/Leandro & Leonardo - Dose Dupla - Leandro & Leonardo - 6 - E\xcc\x81 Por Voce\xcc\x82 Que Canto.mp3'
+p321
+a.
