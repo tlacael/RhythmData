@@ -1,0 +1,1091 @@
+c__builtin__
+set
+p1
+((lp2
+V
+aVLeo Almeida
+p3
+aVTrio Voces de Oro
+p4
+aVSwing & Simpatia
+p5
+aVRui Biria
+p6
+aVAdair Freitas
+p7
+aVGio
+p8
+aVManolo
+p9
+aVLefty Perez
+p10
+aVRoberto Carlos
+p11
+aVBabado Novo
+p12
+aVEduardo Dusek
+p13
+aVAri Santos
+p14
+aVRaulin Rosendo
+p15
+aVTio Nanato
+p16
+aVDany Brillant
+p17
+aVRoberto Torres
+p18
+aVRastapé & Baião de Quatro
+p19
+aVSidney Almeida
+p20
+aVGrupo Rodeio
+p21
+aVMarc Anthony
+p22
+aVGal Costa & Tom Jobin
+p23
+aVZacarias Ferreira
+p24
+aVLuis marenco
+p25
+aVElvis Diaz
+p26
+aVLa Banda Del Pueblo
+p27
+aVMonna Bell
+p28
+aVYoskar Sarante
+p29
+aVTatiana
+p30
+aVCesar passarinho
+p31
+aVArena Fina
+p32
+aVQuero Quero
+p33
+aVEl Gran Combo
+p34
+aVBanda X
+p35
+aVGrupo Deseo
+p36
+aVBanda Beijo
+p37
+aVLuiz Bastos
+p38
+aVElena Burke
+p39
+aVAlberto Flash
+p40
+aVRey Ruiz
+p41
+aVPedro Fernandez
+p42
+aVOs Tiranos
+p43
+aVGarotos de Ouro
+p44
+aVAmerica
+p45
+aVAlejandro Sanz
+p46
+aVBruno & Marrone
+p47
+aVJeito Moleque
+p48
+aVRubby Perez
+p49
+aVTchê Guri
+p50
+aVNico Resende
+p51
+aVGurizada Medonha
+p52
+aVGrupo Renascença
+p53
+aVFernadito Villalona & Alex Bueno & Sergio Vargas & Ramón Orlando
+p54
+aVChitãozinho & Xororó
+p55
+aVTrio Chama Chuva
+p56
+aVLos Sobrosos Del Merengue
+p57
+aVGiro
+p58
+aVAlbert Lama
+p59
+aVLos Sabrosos del Merengue
+p60
+aVGen-T Joven
+p61
+aVRuben Del Rio
+p62
+aVDulce & Amargo
+p63
+aVNino Segarra
+p64
+aVThe Bangles
+p65
+aVCelia Cruz
+p66
+aVElvis Martinez
+p67
+aVDaniel Moncion
+p68
+aVJuan Luis Guerra
+p69
+aVRaulin Rodriguez
+p70
+aVCelia Cruz & Vicente Fernández
+p71
+aVSabrosos Del Merengue
+p72
+aVBachata Music
+p73
+aVEl Chaval
+p74
+aVGrupo Sensação
+p75
+aVLa Fuerza
+p76
+aVAlma Serrana
+p77
+aVNó de Forró
+p78
+aVJoão chagas leite
+p79
+aVPedro Ortaça
+p80
+aVMascar salsera
+p81
+aVEvils Crespo & Grupo Mania
+p82
+aVLuiggy Luiggy
+p83
+aVBelchior
+p84
+aVLeila Pinheiro
+p85
+aVLa Nueva Patrulla 15
+p86
+aVSorriso Maroto
+p87
+aVOlga Tañon
+p88
+aVOs Mateadores
+p89
+aVLos sabrosos del merengue
+p90
+aVNenito Sarturi
+p91
+aVCharlie Zaa
+p92
+aVAventura
+p93
+aVFalamansa
+p94
+aVEl Costo De La Vida
+p95
+aVGrupo liberdade
+p96
+aVBicho De Pé
+p97
+aVLos Tres Ases
+p98
+aVHarmonia do Samba
+p99
+aVMPB4
+p100
+aVVarios
+p101
+aVCelia Cruz & India
+p102
+aVNelson Tavarez
+p103
+aVRastapé
+p104
+aVChaney
+p105
+aVBicho de Pé
+p106
+aVOs Nativos
+p107
+aVÉ o Tchan 
+p108
+aVEstakazero
+p109
+aVLuis Enrique
+p110
+aVCaetano Veloso
+p111
+aVMarc Anthony & Jennifer Lopez
+p112
+aVHuellas Del Tiempo
+p113
+aNaVTimbalada
+p114
+aVTito Rojas
+p115
+aVCelia Cruz; India
+p116
+aVOs Morenos
+p117
+aVHamornia do Samba
+p118
+aVCesar Passarinho
+p119
+aVAntonio Banderas
+p120
+aVAlessander
+p121
+aVMelina León
+p122
+aVNetinho
+p123
+aVJ. Pacheco
+p124
+aVRita de Cassia
+p125
+aVDouble Impacto
+p126
+aVTony Rivas
+p127
+aVRoberto Carlos & Eddie Gorme
+p128
+aVGloria Estefan & Jose Feliciano
+p129
+aVOlodum
+p130
+aVIedo silva
+p131
+aVW. Leon
+p132
+aVTimbalada & Caetano Veloso
+p133
+aVAmaro & Iti
+p134
+aVMonchy & Alexandra            
+p135
+aVJohnny Jousepht
+p136
+aVAnthony Santos
+p137
+aVOs Farrapos
+p138
+aVRonny Moreno
+p139
+aVLa Banda Flakka
+p140
+aVMarisa monte
+p141
+aVAndy Andy
+p142
+aVAlberto Llanos
+p143
+aVGloria Estefan 
+p144
+aVTina Turner
+p145
+aVLupita d`Alessio
+p146
+aVAmarfis Y La Banda de Atakke
+p147
+aVWalther Morais
+p148
+aVZona Roja
+p149
+aVLuiz Carlos Borges
+p150
+aVDomenic M.
+p151
+aVWilly Gonzalez
+p152
+aVRey Sepulveda
+p153
+aVBanda Eva
+p154
+aVGrupo Liberdade
+p155
+aVManny Valenz
+p156
+aVGerson Fogaça
+p157
+aVShakira
+p158
+aVAntonio Marques
+p159
+aVLuis Manuel
+p160
+aVTrio Virgulino
+p161
+aVOs Milongueiros
+p162
+aVElvis Crespo & Sergio Vargas
+p163
+aVLuis Miguel del Amargue
+p164
+aVGrupo Estampa
+p165
+aVGrupo XTC
+p166
+aVOrquesta Caracas
+p167
+aVPapucho Y Su Grupo Wao
+p168
+aVDoris Day
+p169
+aVPapi Sanchez
+p170
+aVFernando Villalona
+p171
+aVAraketo
+p172
+aVAlex Bueno & Frank Reyes
+p173
+aVVictor Victor & La Vellonera
+p174
+aVArmando Larinaga
+p175
+aVDLG
+p176
+aVPalo Nuevo
+p177
+aVEl Combo Dominicano
+p178
+aVLuis Carlos Pereira
+p179
+aVTonny Tun Tun
+p180
+aVArabemania
+p181
+aVChão Sulino
+p182
+aVJulian
+p183
+aVSwing Divino
+p184
+aVBicho de Pé & Trio Virgulino
+p185
+aVSimone
+p186
+aVChiclete com Banana & Ivete Sangalo
+p187
+aVExtra Banda
+p188
+aVSalsa unica
+p189
+aVChico Buarque
+p190
+aVBanda Planeta Axé
+p191
+aVJossie Esteban
+p192
+aVEco do Minuano & Bonitinho
+p193
+aVKiloucura
+p194
+aVEddie Montaivo
+p195
+aVWilly gonzalez
+p196
+aVAngelica Maria
+p197
+aVAstor Piazzolla
+p198
+aVOs Caciques
+p199
+aVLuis Vargas
+p200
+aVBrassa Ardiente
+p201
+aVGrupos Querência
+p202
+aVCrioulo dos Pampas
+p203
+aVParatodos
+p204
+aVRicky Castro
+p205
+aVRuben Blades
+p206
+aVDaniela Mercury
+p207
+aVOrquestra Caracas
+p208
+aVPrimera clase
+p209
+aVMonchi & Alexandra
+p210
+aVPiazitos do Fandango
+p211
+aVTitti Soto
+p212
+aVDon Andres
+p213
+aVTulile
+p214
+aVDélcio Tavares
+p215
+aVArnaldo
+p216
+aVGilberto Santa Rosa 
+p217
+aVLinda Ronstadt
+p218
+aVLupita d'Alessio
+p219
+aVAfricando
+p220
+aVPatchanka
+p221
+aVMariano
+p222
+aVRuben Dario
+p223
+aVJavier Solís
+p224
+aVOs Garotos de Ouro
+p225
+aVMarc Anthony 
+p226
+aVRokabanda
+p227
+aVHoracio Salgán
+p228
+aVRastapé e Baião de Quatro
+p229
+aVAndy Pena
+p230
+aVTchê Barbaridade
+p231
+aVFilhos do Nordeste
+p232
+aVTrio Virgulino & Trio Forrozão
+p233
+aVForroçacana
+p234
+aVNelcy vargas
+p235
+aVCELIA CRUZ
+p236
+aVFrank Reyes
+p237
+aVTrio Virgulino & Dominguinhos
+p238
+aVEDDIE SANTIAGO
+p239
+aVTerra Samba
+p240
+aVAngela Rô Rô
+p241
+aVMaelo
+p242
+aVRaul Seixas
+p243
+aVAstor Piazzolla & Gary Burton
+p244
+aVIvete Sangalo & Olodum
+p245
+aVTrad
+p246
+aVJosé Manuel
+p247
+aVPorca Véia
+p248
+aVBatom Na Cueca
+p249
+aVWilly Chirino
+p250
+aVBachata Duo
+p251
+aVJayme caetano braun
+p252
+aVGrupo minuano
+p253
+aVMala Fe
+p254
+aVBanda Mel
+p255
+aVTchê Garotos
+p256
+aVTego Calderon
+p257
+aVOz Bambaz
+p258
+aVCésar Oliveira & Rogério Melo
+p259
+aVLuiz Gonzaga & Trio Virgulino
+p260
+aVMambo
+p261
+aVMinuano
+p262
+aVElymar Santos
+p263
+aVAlceu Valença & Elba Ramalho & Geraldo Azevedo & Zé Ramalho
+p264
+aVZeca Pagodinho
+p265
+aVEl Jeffrey
+p266
+aVManole Manole
+p267
+aVJaime Roos
+p268
+aVGal Costa
+p269
+aVLa Makina
+p270
+aVMarcelo Noms
+p271
+aVBachata Magic
+p272
+aVOs Campeiros
+p273
+aVJosé Ricardo, Guillermo Barbieri, José María Aguilar
+p274
+aVGrupo quero-quero
+p275
+aVWalfrido Vargas
+p276
+aVBeto Caetano
+p277
+aVGrupo Manotaço
+p278
+aVOs Buenachos
+p279
+aVEllis Regina
+p280
+aVMaria Bethânia
+p281
+aVIvente Sangalo
+p282
+aVBabado Novo 
+p283
+aVAmarfis
+p284
+aVMarina Lima
+p285
+aVFrankie Negrón
+p286
+aVLevada Louca
+p287
+aVMarc Antony
+p288
+aVAlex El Biscochito
+p289
+aVAntoninho Duarte
+p290
+aVFred Mercury & Monserrat Cabale
+p291
+aVRick & Renner
+p292
+aVElvis Crespo 
+p293
+aVRoberto Blades
+p294
+aVIvete Sangalo & Netinho
+p295
+aVGrupo Candeeiro 
+p296
+aVLos Tres Caballeros
+p297
+aVNey Matogrosso
+p298
+aVOmmar
+p299
+aVGrupo Trumã
+p300
+aVMimi Ibarra
+p301
+aVGilmelândia
+p302
+aVEraci Rocha
+p303
+aVKiko Rodriguez
+p304
+aVPaulo Siqueira & Grupo Velha Porteira
+p305
+aVGrupo Mania
+p306
+aVNelson De La Olla
+p307
+aVGrupo Revelação
+p308
+aVZezé Di Camargo & Luciano
+p309
+aVLulu Santos
+p310
+aVFlor de Tabaco
+p311
+aVTabaco & Sus Metales
+p312
+aVOs mateadores
+p313
+aVRicky Castro Y Su Banda Soberbia
+p314
+aVTrio Nordestino
+p315
+aVAmarfis & July July
+p316
+aVAnibal Alves
+p317
+aVJulio Madrid
+p318
+aVDe Fio a Pavio
+p319
+aVJosean
+p320
+aVAnna Belen & Antonio Banderas
+p321
+aVChiquito & Bordoneio
+p322
+aVGrupo candeeiro
+p323
+aVMano Lima
+p324
+aVKatinguelê
+p325
+aVEnrique Feliz
+p326
+aVTeodoro & Sampaio
+p327
+aVMarc Antony & Jennifer Lopez
+p328
+aVDeskkontrolados
+p329
+aVFrankie Negron
+p330
+aVOro Duro
+p331
+aVAnthony Cruz
+p332
+aVTrio Forrozão
+p333
+aVLa Banda Gorda
+p334
+aVGrupo Niche
+p335
+aVOs Travessos
+p336
+aVZeca Pagodinho & Ivan Milanez
+p337
+aVHino Rio-Grandense
+p338
+aVGrupo Tarumã
+p339
+aVSasha
+p340
+aVSafire
+p341
+aVAndy Aguilera
+p342
+aVTrio Zeferino
+p343
+aVGuilherme & Santiago
+p344
+aVEmílio Santiago
+p345
+aVGrupo Mio
+p346
+aVIsmael Miranda & JuniorGonzales
+p347
+aVEstakaZero
+p348
+aVNueva Era
+p349
+aVTony Swing
+p350
+aVD. Fernandez & C. Rodriguez
+p351
+aVJoe Veras & Alex Bueno
+p352
+aVJose Juan
+p353
+aVBerenice Azambuj
+p354
+aVTeodoro e Sampaio
+p355
+aVEl Grupo Romance
+p356
+aVForróçacana
+p357
+aVMagneto
+p358
+aVManikkomio
+p359
+aVRicardo-Barbieri-Aguilar
+p360
+aVGarotos do Fandango
+p361
+aVTchaka Bum
+p362
+aVCristian Cristian
+p363
+aVToquinho & Vinicius
+p364
+aVOsvaldir & Carlos Magrão
+p365
+aVGrupo 747
+p366
+aVFreddy Gerardo
+p367
+aVAviões do Forró
+p368
+aVEdwin
+p369
+aVAlex Bueno
+p370
+aVFrank Sinatra
+p371
+aVGrupo Chamamento
+p372
+aVHomeboys
+p373
+aVBanda Cheiro de Amor
+p374
+aVLa Banda Tuya
+p375
+aVFafá De Belém
+p376
+aVReginaldo Rossi
+p377
+aVIvente Sangalo & Gilberto Gil
+p378
+aVThalia
+p379
+aVPedro ortaça
+p380
+aVJuan Manuel
+p381
+aVRey & Frankie Ruiz
+p382
+aVGrupo Minuano
+p383
+aVPaulo Costa
+p384
+aVCaña Brava
+p385
+aVOs Veteranos
+p386
+aVLa Fever Banda
+p387
+aVLa Magia
+p388
+aVOs Araganos
+p389
+aVIndio Sepe
+p390
+aVFogo de Chão
+p391
+aVManny Manuel
+p392
+aVTony Y Marea Alta
+p393
+aVIvete Sangalo
+p394
+aVAlex Leon
+p395
+aVDichen
+p396
+aVGonzaga dos Reis
+p397
+aVOs Guapos
+p398
+aVCheque Especial
+p399
+aVZacararias Ferreira
+p400
+aVChiquito & Grupo Bordoneio
+p401
+aVLuis Miguel
+p402
+aVEl Gringo De La Bachata
+p403
+aVVictor Manuelle
+p404
+aVNana Caymmi
+p405
+aVTodos do Festchê
+p406
+aVAnthony Cryz
+p407
+aVAdelmo Reieffel
+p408
+aVEdson & Hudson
+p409
+aVElvis Crespo
+p410
+aVÉ o Tchan
+p411
+aVTânia Alves
+p412
+aVGilberto Santa Rosa
+p413
+aVLos Tres Caballeros 
+p414
+aVMonchy & Alexandra 
+p415
+aVPrimera Classe
+p416
+aVMarisa Monte
+p417
+aVGrupo Charla
+p418
+aVAida Cuevas
+p419
+aVMaremoto
+p420
+aVCaiana
+p421
+aVEl Bonche
+p422
+aVGilberto Gil
+p423
+aVReinaldo
+p424
+aVJoão Luiz Correa
+p425
+aVSanta Esmeralda
+p426
+aVLos Sabrosos del merengue
+p427
+aVAs Meninas
+p428
+aVDjavan
+p429
+aVGonzaguinha
+p430
+aVJoão Luiz Corrêa
+p431
+aVLos Toros Band
+p432
+aVCandieiro
+p433
+aVMichell
+p434
+aVJoe Veras
+p435
+aVWillie Colon & Ismael Miranda
+p436
+aVFlor Yvon
+p437
+aVLeo Marini
+p438
+aVGal Costa & Erasmo Carlos
+p439
+aVOs Sungas
+p440
+aVClase aparte
+p441
+aVD.R.
+p442
+aVLeydy Bonilla & Luis Miguel Del Amargue
+p443
+aVToño Rosario
+p444
+aVTimbalada & Lobão
+p445
+aVDez Anos
+p446
+aVLucho Gatica
+p447
+aVElis Regina & Cauby
+p448
+aVCriolo dos Pampas
+p449
+aVGloria Estefan
+p450
+aVAlejandro Fernandez
+p451
+aVTimbalada & Carlinhos Brown
+p452
+aVOs Serranos
+p453
+aVFrancisco Xavier
+p454
+aVOs tiranos
+p455
+aVArt Popular
+p456
+aVBoka Loka
+p457
+aVDudu Nobre
+p458
+aVCheiro de Amor
+p459
+aVTrio Nordestino & Alceu Valença
+p460
+aVCarla Cristina
+p461
+aVPochi & Cocoband
+p462
+aVExalta Samba
+p463
+aVO Cancioneiro
+p464
+aVLady Bonilla & Luis Miguel del Amargue
+p465
+aVPedro Conga
+p466
+aVMichael Stevan
+p467
+aVLuis Miguel Del Amargue
+p468
+aVKaos
+p469
+aVTrio Lubião
+p470
+aVExtreme
+p471
+aVMargareth Menezes
+p472
+aVEl Torito & Krisspy & Tamarindo
+p473
+aVAxé Blond
+p474
+aVCarlos Gardel
+p475
+aVLonardo
+p476
+aVLeonardo
+p477
+aVQuiero hacerte el amor
+p478
+aVGera Samba
+p479
+aVPedro Vargas
+p480
+aVRoupa Nova
+p481
+aVScala 40
+p482
+aVLupita d´Alessio
+p483
+aVLuiz Gonzaga
+p484
+aVJammil e Uma Noites
+p485
+aVVictor Roque Y La Gran Manzana
+p486
+aVAnna Belen
+p487
+aVNovo Ton
+p488
+aVMarc Antony & La India
+p489
+aVJulio Perceval
+p490
+aVAdair de Freitas
+p491
+aVIsabel Pantoja
+p492
+aVPaulo Siqueira
+p493
+aVReynaldo Rey
+p494
+aVSimone & Chico Buarque
+p495
+aVSandy & Papo
+p496
+aVCarmen Duran
+p497
+aVAzucarado & Frank Reyes
+p498
+aVDomenic Marte
+p499
+aVJerry Rivera
+p500
+aVRay Lopez
+p501
+aVJose Feliciano
+p502
+aVTito Gomez & Tito Rojas
+p503
+aVAngelito Villalona
+p504
+aVLeandro & Leonardo
+p505
+aVGrupo Querência
+p506
+aVRio Negro & Solimões
+p507
+aVBeto Viegas
+p508
+aVZizi Possi
+p509
+aVMarinês Siqueira & Grupo Missões
+p510
+aVLuiz Marenco
+p511
+aVRaffy Matias
+p512
+aVFito Olivares
+p513
+aVJoanna
+p514
+aVRick Astley
+p515
+aVOs Monarcas
+p516
+aVJose Alberto
+p517
+aVLa Linea
+p518
+aVCaña  Brava
+p519
+aVLos Sabrosos Del Merengue
+p520
+aVEddie Santiago
+p521
+aVA- Pedraza
+p522
+aVLuna Llena
+p523
+aVJoão Bosco
+p524
+aVMonchy & Alexandra
+p525
+aVJoseph Fonseca
+p526
+aVCarlos Cardel
+p527
+aVFalamansa & Trio Virgulino
+p528
+aVDominicanada
+p529
+aVAstor Piazzolla & Kronos Quartet
+p530
+aVDudo Nobre
+p531
+aVLuiz Cardoso & Aurélio Leal
+p532
+aVEl Gringo de La Bachata
+p533
+aVBanda Chula Y Raymond Pozo
+p534
+aVMascara salsera
+p535
+aVJhom Martinez
+p536
+aVKaris
+p537
+aVArlindo Cruz
+p538
+aVWilfrido Vargas
+p539
+aVAsa de Águia
+p540
+aVLos Toros Band 
+p541
+aVPuerto Rican Power
+p542
+aVFlamboyan
+p543
+aVGrupo NV
+p544
+atRp545
+.

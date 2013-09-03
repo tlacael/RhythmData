@@ -1,0 +1,6011 @@
+(dp1
+VLeo Almeida
+p2
+(dp3
+S'genre'
+p4
+VGaucha
+p5
+sS'region'
+p6
+VNA
+p7
+sS'latlong'
+p8
+S'NA'
+p9
+ssVTrio Voces de Oro
+p10
+(dp11
+g4
+VBolero
+p12
+sg6
+VNA
+p13
+sg8
+g9
+ssVSwing & Simpatia
+p14
+(dp15
+g4
+VPagode
+p16
+sg6
+VNova Iguaçu, RJ, Brazil
+p17
+sg8
+(lp18
+F-22.759763100000001
+aF-43.451554199999997
+assVAngela Ro Ro
+p19
+(dp20
+g4
+VBolero
+p21
+sg6
+VRio de Janeiro (Brazil)
+p22
+sg8
+(lp23
+F-22.903539299999998
+aF-43.209586899999998
+assVRui Biria
+p24
+(dp25
+g4
+VGaucha
+p26
+sg6
+VHorizontina, RS, Brazil
+p27
+sg8
+(lp28
+F-27.6301004
+aF-54.307222099999997
+assVAdair Freitas
+p29
+(dp30
+g4
+VGaucha
+p31
+sg6
+VNA
+p32
+sg8
+g9
+ssVGio
+p33
+(dp34
+g4
+VBachata
+p35
+sg6
+VNA
+p36
+sg8
+g9
+ssVManolo
+p37
+(dp38
+g4
+VGaucha
+p39
+sg6
+VNA
+p40
+sg8
+g9
+ssVLefty Perez
+p41
+(dp42
+g4
+VSalsa
+p43
+sg6
+VNA
+p44
+sg8
+g9
+ssVForrocacana
+p45
+(dp46
+g4
+VForro
+p47
+sg6
+VRio de Janeiro (Brazil)
+p48
+sg8
+g23
+ssVRoberto Carlos
+p49
+(dp50
+g4
+VBolero
+p51
+sg6
+VCachoeiro do Itapemirim, Espírito Santo, Brazil
+p52
+sg8
+(lp53
+F-20.831666999999999
+aF-41.185275999999988
+assVBabado Novo
+p54
+(dp55
+g4
+VAxe
+p56
+sg6
+VSalvador, Bahia, Brazil
+p57
+sg8
+(lp58
+F-12.970381700000001
+aF-38.512382000000002
+assVEduardo Dusek
+p59
+(dp60
+g4
+VBolero
+p61
+sg6
+VRio de Janeiro (Brazil)
+p62
+sg8
+g23
+ssVAri Santos
+p63
+(dp64
+g4
+VGaucha
+p65
+sg6
+VAriquemes - Rondônia, Brazil
+p66
+sg8
+(lp67
+F-9.9137521
+aF-63.043973100000002
+assVRaulin Rosendo
+p68
+(dp69
+g4
+VSalsa
+p70
+sg6
+VNA
+p71
+sg8
+g9
+ssVTio Nanato
+p72
+(dp73
+g4
+VGaucha
+p74
+sg6
+VNA
+p75
+sg8
+g9
+ssVDany Brillant
+p76
+(dp77
+g4
+VBolero
+p78
+sg6
+VParis (France)
+p79
+sg8
+(lp80
+F48.856614
+aF2.3522219
+assVRoberto Torres
+p81
+(dp82
+g4
+VSalsa
+p83
+sg6
+VNA
+p84
+sg8
+g9
+ssVSidney Almeida
+p85
+(dp86
+g4
+VGaucha
+p87
+sg6
+VNA
+p88
+sg8
+g9
+ssVGrupo Rodeio
+p89
+(dp90
+g4
+VGaucha
+p91
+sg6
+VSao Pedro, Rio Grande Do Sul, Brazil
+p92
+sg8
+(lp93
+F-29.169443999999999
+aF-51.423611000000008
+assVJose Juan
+p94
+(dp95
+g4
+VMerengue
+p96
+sg6
+VNA
+p97
+sg8
+g9
+ssVMarc Anthony
+p98
+(dp99
+g4
+VSalsa
+p100
+sg6
+VNA
+p101
+sg8
+g9
+ssVGal Costa & Tom Jobin
+p102
+(dp103
+g4
+VBolero
+p104
+sg6
+VSalvador (Brazil)
+p105
+sg8
+(lp106
+F-12.970381700000001
+aF-38.512382000000002
+assVZacarias Ferreira
+p107
+(dp108
+g4
+VBachata
+p109
+sg6
+VNA
+p110
+sg8
+g9
+ssVRey Ruiz
+p111
+(dp112
+g4
+VSalsa
+p113
+sg6
+VNA
+p114
+sg8
+g9
+ssVLuis marenco
+p115
+(dp116
+g4
+VGaucha
+p117
+sg6
+VNA
+p118
+sg8
+g9
+ssVElvis Diaz
+p119
+(dp120
+g4
+VBachata
+p121
+sg6
+VNA
+p122
+sg8
+g9
+ssVLa Banda Del Pueblo
+p123
+(dp124
+g4
+VMerengue
+p125
+sg6
+VNA
+p126
+sg8
+g9
+ssVMonna Bell
+p127
+(dp128
+g4
+VBolero
+p129
+sg6
+VSantiago, Chile
+p130
+sg8
+(lp131
+F-33.469119900000003
+aF-70.641997000000003
+assVYoskar Sarante
+p132
+(dp133
+g4
+VBachata
+p134
+sg6
+VNA
+p135
+sg8
+g9
+ssVTatiana
+p136
+(dp137
+g4
+VBolero
+p138
+sg6
+VRio de Janeiro (Brazil)
+p139
+sg8
+g23
+ssVCesar passarinho
+p140
+(dp141
+g4
+VGaucha
+p142
+sg6
+VNA
+p143
+sg8
+g9
+ssVArena Fina
+p144
+(dp145
+g4
+VMerengue
+p146
+sg6
+VNA
+p147
+sg8
+g9
+ssVQuero Quero
+p148
+(dp149
+g4
+VGaucha
+p150
+sg6
+VNA
+p151
+sg8
+g9
+ssVEl Gran Combo
+p152
+(dp153
+g4
+VSalsa
+p154
+sg6
+VNA
+p155
+sg8
+g9
+ssVBanda X
+p156
+(dp157
+g4
+VMerengue
+p158
+sg6
+VNA
+p159
+sg8
+g9
+ssVGrupo Deseo
+p160
+(dp161
+g4
+VBachata
+p162
+sg6
+VNA
+p163
+sg8
+g9
+ssVBanda Beijo
+p164
+(dp165
+g4
+VAxe
+p166
+sg6
+VSalvador, Bahia, Brazil
+p167
+sg8
+g58
+ssVCelia Cruz & Vicente Fernandez
+p168
+(dp169
+g4
+VBachata
+p170
+sg6
+VNA
+p171
+sg8
+g9
+ssVLuiz Bastos
+p172
+(dp173
+g4
+VGaucha
+p174
+sg6
+VSanta Maria, Rio Grande Do Sul, Brazil
+p175
+sg8
+(lp176
+F-29.6858073
+aF-53.807487100000003
+assVMerengue Mania 2003
+p177
+(dp178
+g4
+VMerengue
+p179
+sg6
+VNA
+p180
+sg8
+g9
+ssVElena Burke
+p181
+(dp182
+g4
+VBolero
+p183
+sg6
+VHavana, Cuba
+p184
+sg8
+(lp185
+F23.116800000000001
+aF-82.388556999999992
+assVAlberto Flash
+p186
+(dp187
+g4
+VMerengue
+p188
+sg6
+VNA
+p189
+sg8
+g9
+ssVTrio Virgulino & Trio Forrozao
+p190
+(dp191
+g4
+VForro
+p192
+sg6
+VSão Paulo, Brazil
+p193
+sg8
+(lp194
+F-23.548943300000001
+aF-46.638818200000003
+assVPedro Fernandez
+p195
+(dp196
+g4
+VBolero
+p197
+sg6
+VGuadalajara, Mexico
+p198
+sg8
+(lp199
+F20.673590000000001
+aF-103.34380299999999
+assVOs Tiranos
+p200
+(dp201
+g4
+VGaucha
+p202
+sg6
+VSão Francisco de Paula - Rio Grande do Sul, Brazil
+p203
+sg8
+(lp204
+F-29.446730299999999
+aF-50.5800932
+assVGarotos de Ouro
+p205
+(dp206
+g4
+VGaucha
+p207
+sg6
+VCruz Alta, Rio Grande do Sul, Brazil
+p208
+sg8
+(lp209
+F-28.645101100000002
+aF-53.6064115
+assVTrio Lubiao
+p210
+(dp211
+g4
+VForro
+p212
+sg6
+VNA
+p213
+sg8
+g9
+ssVAmerica
+p214
+(dp215
+g4
+VBolero
+p216
+sg6
+VNA
+p217
+sg8
+g9
+ssVAlejandro Sanz
+p218
+(dp219
+g4
+VBolero
+p220
+sg6
+VMadrid (Spain)
+p221
+sg8
+(lp222
+F40.416775399999999
+aF-3.7037901999999998
+assVBruno & Marrone
+p223
+(dp224
+g4
+VSertaneja
+p225
+sg6
+VGoiânia, Brazil
+p226
+sg8
+(lp227
+F-16.677715299999999
+aF-49.267629599999999
+assVChao Sulino
+p228
+(dp229
+g4
+VGaucha
+p230
+sg6
+VEstância Velha - Rio Grande do Sul, Brazil
+p231
+sg8
+(lp232
+F-29.6473005
+aF-51.173313299999997
+assVJeito Moleque
+p233
+(dp234
+g4
+VPagode
+p235
+sg6
+VSao Paulo (Brazil)
+p236
+sg8
+(lp237
+F-23.548943300000001
+aF-46.638818200000003
+assVRubby Perez
+p238
+(dp239
+g4
+VMerengue
+p240
+sg6
+VNA
+p241
+sg8
+g9
+ssVNico Resende
+p242
+(dp243
+g4
+VBolero
+p244
+sg6
+VSão Paulo, Brazil
+p245
+sg8
+g194
+ssVGurizada Medonha
+p246
+(dp247
+g4
+VGaucha
+p248
+sg6
+VNA
+p249
+sg8
+g9
+ssVOs Travessos
+p250
+(dp251
+g4
+VPagode
+p252
+sg6
+VSao Paulo (Brazil)
+p253
+sg8
+g237
+ssVTrio Chama Chuva
+p254
+(dp255
+g4
+VForro
+p256
+sg6
+VEspirito Santo, Brazil
+p257
+sg8
+(lp258
+F-19.1834229
+aF-40.308862599999998
+assVLos Sobrosos Del Merengue
+p259
+(dp260
+g4
+VMerengue
+p261
+sg6
+VNA
+p262
+sg8
+g9
+ssVGiro
+p263
+(dp264
+g4
+VSalsa
+p265
+sg6
+VNA
+p266
+sg8
+g9
+ssVAlbert Lama
+p267
+(dp268
+g4
+VBachata
+p269
+sg6
+VNA
+p270
+sg8
+g9
+ssVLos Sabrosos del Merengue
+p271
+(dp272
+g4
+VMerengue
+p273
+sg6
+VNA
+p274
+sg8
+g9
+ssVGen-T Joven
+p275
+(dp276
+g4
+VMerengue
+p277
+sg6
+VNA
+p278
+sg8
+g9
+ssVJavier Solis
+p279
+(dp280
+g4
+VBolero
+p281
+sg6
+VMexico City (Mexico)
+p282
+sg8
+(lp283
+F19.432607699999998
+aF-99.133207999999996
+assVRuben Del Rio
+p284
+(dp285
+g4
+VBachata
+p286
+sg6
+VNA
+p287
+sg8
+g9
+ssVDulce & Amargo
+p288
+(dp289
+g4
+VBachata
+p290
+sg6
+VNA
+p291
+sg8
+g9
+ssVNino Segarra
+p292
+(dp293
+g4
+VSalsa
+p294
+sg6
+VNA
+p295
+sg8
+g9
+ssVThe Bangles
+p296
+(dp297
+g4
+VBolero
+p298
+sg6
+VLos Angeles, California,USA
+p299
+sg8
+(lp300
+F34.052234200000001
+aF-118.24368490000001
+assVBicho De Pe
+p301
+(dp302
+g4
+VForro
+p303
+sg6
+VSão Paulo, Brazil
+p304
+sg8
+g194
+ssVCelia Cruz
+p305
+(dp306
+g4
+VSalsa
+p307
+sg6
+VNA
+p308
+sg8
+g9
+ssVElvis Martinez
+p309
+(dp310
+g4
+VBachata
+p311
+sg6
+VNA
+p312
+sg8
+g9
+ssVTono Rosario
+p313
+(dp314
+g4
+VMerengue
+p315
+sg6
+VNA
+p316
+sg8
+g9
+ssVDaniel Moncion
+p317
+(dp318
+g4
+VBachata
+p319
+sg6
+VNA
+p320
+sg8
+g9
+ssVDelcio Tavares
+p321
+(dp322
+g4
+VGaucha
+p323
+sg6
+VNovo Hamburgo - Rio Grande do Sul, Brazil
+p324
+sg8
+(lp325
+F-29.684604700000001
+aF-51.141856300000001
+assVJuan Luis Guerra
+p326
+(dp327
+g4
+VBolero
+p328
+sg6
+VSanto Domingo, Dominican Republic
+p329
+sg8
+(lp330
+F18.5
+aF-69.983333299999998
+assVRaulin Rodriguez
+p331
+(dp332
+g4
+VBachata
+p333
+sg6
+VNA
+p334
+sg8
+g9
+ssVSabrosos Del Merengue
+p335
+(dp336
+g4
+VMerengue
+p337
+sg6
+VNA
+p338
+sg8
+g9
+ssVBachata Music
+p339
+(dp340
+g4
+VBolero
+p341
+sg6
+VNA
+p342
+sg8
+g9
+ssVEl Chaval
+p343
+(dp344
+g4
+VBachata
+p345
+sg6
+VNA
+p346
+sg8
+g9
+ssVBicho de Pe
+p347
+(dp348
+g4
+VForro
+p349
+sg6
+VSão Paulo, Brazil
+p350
+sg8
+g194
+ssVLa Fuerza
+p351
+(dp352
+g4
+VMerengue
+p353
+sg6
+VNA
+p354
+sg8
+g9
+ssVAlma Serrana
+p355
+(dp356
+g4
+VGaucha
+p357
+sg6
+VNA
+p358
+sg8
+g9
+ssVRastape
+p359
+(dp360
+g4
+VForro
+p361
+sg6
+VSão Paulo, Brazil
+p362
+sg8
+g194
+ssVMascar salsera
+p363
+(dp364
+g4
+VSalsa
+p365
+sg6
+VNA
+p366
+sg8
+g9
+ssVEvils Crespo & Grupo Mania
+p367
+(dp368
+g4
+VMerengue
+p369
+sg6
+VNA
+p370
+sg8
+g9
+ssVBelchior
+p371
+(dp372
+g4
+VBolero
+p373
+sg6
+VSobral, Ceará, Brazil
+p374
+sg8
+(lp375
+F-3.6823592999999999
+aF-40.353782199999998
+assVAlex Bueno
+p376
+(dp377
+g4
+VBachata
+p378
+sg6
+VNA
+p379
+sg8
+g9
+ssVLa Nueva Patrulla 15
+p380
+(dp381
+g4
+VMerengue
+p382
+sg6
+VNA
+p383
+sg8
+g9
+ssVSorriso Maroto
+p384
+(dp385
+g4
+VPagode
+p386
+sg6
+VRio de Janeiro (Brazil)
+p387
+sg8
+g23
+ssVBanda Planeta Axe
+p388
+(dp389
+g4
+VAxe
+p390
+sg6
+VNA
+p391
+sg8
+g9
+ssVCesar Oliveira & Rogerio Melo
+p392
+(dp393
+g4
+VGaucha
+p394
+sg6
+VSão Gabriel - Rio Grande do Sul, Brazil
+p395
+sg8
+(lp396
+F-30.339353500000001
+aF-54.318718799999999
+assVOs Mateadores
+p397
+(dp398
+g4
+VGaucha
+p399
+sg6
+VJaguari - Rio Grande do Sul, Brazil
+p400
+sg8
+(lp401
+F-29.494124499999991
+aF-54.692705699999998
+assVLos sabrosos del merengue
+p402
+(dp403
+g4
+VMerengue
+p404
+sg6
+VNA
+p405
+sg8
+g9
+ssVNenito Sarturi
+p406
+(dp407
+g4
+VGaucha
+p408
+sg6
+VPorto Alegre - Rio Grande do Sul, Brazil
+p409
+sg8
+(lp410
+F-30.027704100000001
+aF-51.228734600000003
+assVCharlie Zaa
+p411
+(dp412
+g4
+VBolero
+p413
+sg6
+VGirardot, Colombia
+p414
+sg8
+(lp415
+F4.3007249999999999
+aF-74.805449899999999
+assVAventura
+p416
+(dp417
+g4
+VBachata
+p418
+sg6
+VNA
+p419
+sg8
+g9
+ssVAndy Andy
+p420
+(dp421
+g4
+VMerengue
+p422
+sg6
+VNA
+p423
+sg8
+g9
+ssVFalamansa
+p424
+(dp425
+g4
+VForro
+p426
+sg6
+VSão Paulo, Brazil
+p427
+sg8
+g194
+ssVEl Costo De La Vida
+p428
+(dp429
+g4
+VMerengue
+p430
+sg6
+VNA
+p431
+sg8
+g9
+ssVGrupo liberdade
+p432
+(dp433
+g4
+VGaucha
+p434
+sg6
+VArizona, USA
+p435
+sg8
+(lp436
+F34.048928099999998
+aF-111.0937311
+assVEmilio Santiago
+p437
+(dp438
+g4
+VBolero
+p439
+sg6
+VRio de Janeiro (Brazil)
+p440
+sg8
+g23
+ssVTania Alves
+p441
+(dp442
+g4
+VBolero
+p443
+sg6
+VRio de Janeiro (Brazil)
+p444
+sg8
+g23
+ssVLos Tres Ases
+p445
+(dp446
+g4
+VBolero
+p447
+sg6
+VMexico City (Mexico)
+p448
+sg8
+g283
+ssVHarmonia do Samba
+p449
+(dp450
+g4
+VAxe
+p451
+sg6
+VSalvador, Bahia, Brazil
+p452
+sg8
+g58
+ssVVarios
+p453
+(dp454
+g4
+VBachata
+p455
+sg6
+VNA
+p456
+sg8
+g9
+ssVNo de Forro
+p457
+(dp458
+g4
+VForro
+p459
+sg6
+VNA
+p460
+sg8
+g9
+ssVNelson Tavarez
+p461
+(dp462
+g4
+VBachata
+p463
+sg6
+VNA
+p464
+sg8
+g9
+ssVRoupa Nova
+p465
+(dp466
+g4
+VBolero
+p467
+sg6
+VRio de Janeiro (Brazil)
+p468
+sg8
+g23
+ssVTche Barbaridade
+p469
+(dp470
+g4
+VGaucha
+p471
+sg6
+VNA
+p472
+sg8
+g9
+ssVChaney
+p473
+(dp474
+g4
+VSalsa
+p475
+sg6
+VNA
+p476
+sg8
+g9
+ssVGrupo Manotaco
+p477
+(dp478
+g4
+VGaucha
+p479
+sg6
+VNA
+p480
+sg8
+g9
+ssVOs Nativos
+p481
+(dp482
+g4
+VGaucha
+p483
+sg6
+VNA
+p484
+sg8
+g9
+ssVEstakazero
+p485
+(dp486
+g4
+VForro
+p487
+sg6
+VSalvador (Brazil)
+p488
+sg8
+g106
+ssVPaulo Siqueira
+p489
+(dp490
+g4
+VGaucha
+p491
+sg6
+VNA
+p492
+sg8
+g9
+ssVAvioes do Forro
+p493
+(dp494
+g4
+VForro
+p495
+sg6
+VFortaleza, Ceará Brazil
+p496
+sg8
+(lp497
+F-3.7183942999999999
+aF-38.543394800000002
+assVLuis Enrique
+p498
+(dp499
+g4
+VSalsa
+p500
+sg6
+VNA
+p501
+sg8
+g9
+ssVJose Ricardo,  Guillermo Barbieri,  Jose Maria Aguilar
+p502
+(dp503
+g4
+VTango
+p504
+sg6
+VNA
+p505
+sg8
+g9
+ssVCaetano Veloso
+p506
+(dp507
+g4
+VBolero
+p508
+sg6
+VSalvador, Bahia, Brazil
+p509
+sg8
+g58
+ssVCelia Cruz & India
+p510
+(dp511
+g4
+VSalsa
+p512
+sg6
+VNA
+p513
+sg8
+g9
+ssVMarc Anthony & Jennifer Lopez
+p514
+(dp515
+g4
+VBolero
+p516
+sg6
+VNew York, NY USA
+p517
+sg8
+(lp518
+F40.7143528
+aF-74.005973099999991
+assVHuellas Del Tiempo
+p519
+(dp520
+g4
+VBachata
+p521
+sg6
+VNA
+p522
+sg8
+g9
+ssVTimbalada
+p523
+(dp524
+g4
+VAxe
+p525
+sg6
+VSalvador, Bahia, Brazil
+p526
+sg8
+g58
+ssVOs Morenos
+p527
+(dp528
+g4
+VPagode
+p529
+sg6
+VRio de Janeiro (Brazil)
+p530
+sg8
+g23
+ssVHamornia do Samba
+p531
+(dp532
+g4
+VAxe
+p533
+sg6
+VSalvador, Bahia, Brazil
+p534
+sg8
+g58
+ssVCesar Passarinho
+p535
+(dp536
+g4
+VGaucha
+p537
+sg6
+VNA
+p538
+sg8
+g9
+ssVAntonio Banderas
+p539
+(dp540
+g4
+VBolero
+p541
+sg6
+VMadrid (Spain)
+p542
+sg8
+g222
+ssVAlessander
+p543
+(dp544
+g4
+VMerengue
+p545
+sg6
+VNA
+p546
+sg8
+g9
+ssVNetinho
+p547
+(dp548
+g4
+VAxe
+p549
+sg6
+VSalvador, Bahia, Brazil
+p550
+sg8
+g58
+ssVJ. Pacheco
+p551
+(dp552
+g4
+VSalsa
+p553
+sg6
+VNA
+p554
+sg8
+g9
+ssVRita de Cassia
+p555
+(dp556
+g4
+VBolero
+p557
+sg6
+VFortaleza - Ceará (Brazil)
+p558
+sg8
+(lp559
+F-3.7183942999999999
+aF-38.543394800000002
+assVHoracio Salgan
+p560
+(dp561
+g4
+VTango
+p562
+sg6
+VNA
+p563
+sg8
+g9
+ssVDouble Impacto
+p564
+(dp565
+g4
+VMerengue
+p566
+sg6
+VNA
+p567
+sg8
+g9
+ssVTony Rivas
+p568
+(dp569
+g4
+VMerengue
+p570
+sg6
+VNA
+p571
+sg8
+g9
+ssVRoberto Carlos & Eddie Gorme
+p572
+(dp573
+g4
+VBolero
+p574
+sg6
+VCachoeiro do Itapemirim, Espírito Santo, Brazil
+p575
+sg8
+g53
+ssVGloria Estefan & Jose Feliciano
+p576
+(dp577
+g4
+VBolero
+p578
+sg6
+VHavana, Cuba
+p579
+sg8
+g185
+ssVOlodum
+p580
+(dp581
+g4
+VAxe
+p582
+sg6
+VSalvador, Bahia, Brazil
+p583
+sg8
+g58
+ssVIedo silva
+p584
+(dp585
+g4
+VGaucha
+p586
+sg6
+VNA
+p587
+sg8
+g9
+ssVLuiz Cardoso & Aurelio Leal
+p588
+(dp589
+g4
+VGaucha
+p590
+sg6
+VNA
+p591
+sg8
+g9
+ssVW. Leon
+p592
+(dp593
+g4
+VSalsa
+p594
+sg6
+VNA
+p595
+sg8
+g9
+ssVTimbalada & Caetano Veloso
+p596
+(dp597
+g4
+VAxe
+p598
+sg6
+VSalvador, Bahia, Brazil
+p599
+sg8
+g58
+ssVAmaro & Iti
+p600
+(dp601
+g4
+VGaucha
+p602
+sg6
+VSanta Cruz Do Sul, Rio Grande Do Sul, Brazil
+p603
+sg8
+(lp604
+F-29.7239918
+aF-52.436044299999999
+assVJohnny Jousepht
+p605
+(dp606
+g4
+VMerengue
+p607
+sg6
+VNA
+p608
+sg8
+g9
+ssVAnthony Santos
+p609
+(dp610
+g4
+VBachata
+p611
+sg6
+VNA
+p612
+sg8
+g9
+ssVOs Farrapos
+p613
+(dp614
+g4
+VGaucha
+p615
+sg6
+VNA
+p616
+sg8
+g9
+ssVLa Banda Flakka
+p617
+(dp618
+g4
+VMerengue
+p619
+sg6
+VNA
+p620
+sg8
+g9
+ssVMarisa monte
+p621
+(dp622
+g4
+VBolero
+p623
+sg6
+VRio de Janeiro (Brazil)
+p624
+sg8
+g23
+ssVPedro Ortaca
+p625
+(dp626
+g4
+VGaucha
+p627
+sg6
+VNA
+p628
+sg8
+g9
+ssVAlberto Llanos
+p629
+(dp630
+g4
+VBachata
+p631
+sg6
+VNA
+p632
+sg8
+g9
+ssVRey & Frankie Ruiz
+p633
+(dp634
+g4
+VSalsa
+p635
+sg6
+VNA
+p636
+sg8
+g9
+ssVTina Turner
+p637
+(dp638
+g4
+VBolero
+p639
+sg6
+VTennesee, USA
+p640
+sg8
+(lp641
+F35.517491300000003
+aF-86.580447300000003
+assVLupita d`Alessio
+p642
+(dp643
+g4
+VBolero
+p644
+sg6
+VTijuana, Mexico
+p645
+sg8
+(lp646
+F32.514946899999998
+aF-117.03824710000001
+assVAmarfis Y La Banda de Atakke
+p647
+(dp648
+g4
+VMerengue
+p649
+sg6
+VNA
+p650
+sg8
+g9
+ssVWalther Morais
+p651
+(dp652
+g4
+VGaucha
+p653
+sg6
+VNA
+p654
+sg8
+g9
+ssVZona Roja
+p655
+(dp656
+g4
+VMerengue
+p657
+sg6
+VNA
+p658
+sg8
+g9
+ssVLuiz Carlos Borges
+p659
+(dp660
+g4
+VGaucha
+p661
+sg6
+VNA
+p662
+sg8
+g9
+ssVDomenic M.
+p663
+(dp664
+g4
+VBachata
+p665
+sg6
+VNA
+p666
+sg8
+g9
+ssVWilly Gonzalez
+p667
+(dp668
+g4
+VSalsa
+p669
+sg6
+VNA
+p670
+sg8
+g9
+ssVRey Sepulveda
+p671
+(dp672
+g4
+VBachata
+p673
+sg6
+VNA
+p674
+sg8
+g9
+ssVBanda Eva
+p675
+(dp676
+g4
+VAxe
+p677
+sg6
+VSalvador, Bahia, Brazil
+p678
+sg8
+g58
+ssVFred Mercury & Monserrat Cabale
+p679
+(dp680
+g4
+VBolero
+p681
+sg6
+VLondon, England
+p682
+sg8
+(lp683
+F51.511213899999987
+aF-0.1198244
+assVManny Valenz
+p684
+(dp685
+g4
+VMerengue
+p686
+sg6
+VNA
+p687
+sg8
+g9
+ssVShakira
+p688
+(dp689
+g4
+VBolero
+p690
+sg6
+S'Barranquilla, Colombia'
+p691
+sg8
+(lp692
+F10.9642103
+aF-74.797043500000001
+assVTimbalada & Lobao
+p693
+(dp694
+g4
+VAxe
+p695
+sg6
+VSalvador, Bahia, Brazil
+p696
+sg8
+g58
+ssVLuis Manuel
+p697
+(dp698
+g4
+VBachata
+p699
+sg6
+VNA
+p700
+sg8
+g9
+ssVTrio Virgulino
+p701
+(dp702
+g4
+VForro
+p703
+sg6
+VSao Paulo (Brazil)
+p704
+sg8
+g237
+ssVOs Milongueiros
+p705
+(dp706
+g4
+VGaucha
+p707
+sg6
+VNA
+p708
+sg8
+g9
+ssVElvis Crespo & Sergio Vargas
+p709
+(dp710
+g4
+VMerengue
+p711
+sg6
+VNA
+p712
+sg8
+g9
+ssVLuis Miguel del Amargue
+p713
+(dp714
+g4
+VBachata
+p715
+sg6
+VNA
+p716
+sg8
+g9
+ssVGrupo Estampa
+p717
+(dp718
+g4
+VGaucha
+p719
+sg6
+VNA
+p720
+sg8
+g9
+ssVGrupo XTC
+p721
+(dp722
+g4
+VBachata
+p723
+sg6
+VNA
+p724
+sg8
+g9
+ssVLa Magia
+p725
+(dp726
+g4
+VMerengue
+p727
+sg6
+VNA
+p728
+sg8
+g9
+ssVPapucho Y Su Grupo Wao
+p729
+(dp730
+g4
+VMerengue
+p731
+sg6
+VNA
+p732
+sg8
+g9
+ssVDoris Day
+p733
+(dp734
+g4
+VBolero
+p735
+sg6
+VCincinnati, Ohio USA
+p736
+sg8
+(lp737
+F39.103118199999997
+aF-84.512019600000002
+assVPapi Sanchez
+p738
+(dp739
+g4
+VMerengue
+p740
+sg6
+VNA
+p741
+sg8
+g9
+ssVFernando Villalona
+p742
+(dp743
+g4
+VMerengue
+p744
+sg6
+VNA
+p745
+sg8
+g9
+ssVAraketo
+p746
+(dp747
+g4
+VAxe
+p748
+sg6
+VSalvador, Bahia, Brazil
+p749
+sg8
+g58
+ssVAlex Bueno & Frank Reyes
+p750
+(dp751
+g4
+VBachata
+p752
+sg6
+VNA
+p753
+sg8
+g9
+ssVVictor Victor & La Vellonera
+p754
+(dp755
+g4
+VBolero
+p756
+sg6
+VSantiago, Dominican Republic
+p757
+sg8
+(lp758
+F19.455649999999999
+aF-70.707190999999995
+assVArmando Larinaga
+p759
+(dp760
+g4
+VBolero
+p761
+sg6
+VNA
+p762
+sg8
+g9
+ssVFafa De Belem
+p763
+(dp764
+g4
+VBolero
+p765
+sg6
+VBelem (Brazil)
+p766
+sg8
+(lp767
+F-1.4550205
+aF-48.502368199999999
+assVDLG
+p768
+(dp769
+g4
+VSalsa
+p770
+sg6
+VNA
+p771
+sg8
+g9
+ssVPalo Nuevo
+p772
+(dp773
+g4
+VMerengue
+p774
+sg6
+VNA
+p775
+sg8
+g9
+ssVEl Combo Dominicano
+p776
+(dp777
+g4
+VMerengue
+p778
+sg6
+VNA
+p779
+sg8
+g9
+ssVLuis Carlos Pereira
+p780
+(dp781
+g4
+VGaucha
+p782
+sg6
+VNA
+p783
+sg8
+g9
+ssVTonny Tun Tun
+p784
+(dp785
+g4
+VBachata
+p786
+sg6
+VNA
+p787
+sg8
+g9
+ssVGrupo Candeeiro
+p788
+(dp789
+g4
+VGaucha
+p790
+sg6
+VItapema - Santa Catarina, Brazil
+p791
+sg8
+(lp792
+F-27.090960299999999
+aF-48.611994699999997
+assVArabemania
+p793
+(dp794
+g4
+VMerengue
+p795
+sg6
+VNA
+p796
+sg8
+g9
+ssVJulian
+p797
+(dp798
+g4
+VMerengue
+p799
+sg6
+VNA
+p800
+sg8
+g9
+ssVSwing Divino
+p801
+(dp802
+g4
+VMerengue
+p803
+sg6
+VNA
+p804
+sg8
+g9
+ssVSimone
+p805
+(dp806
+g4
+VBolero
+p807
+sg6
+VSalvador, Bahia, Brazil
+p808
+sg8
+g58
+ssVChiclete com Banana & Ivete Sangalo
+p809
+(dp810
+g4
+VAxe
+p811
+sg6
+VSalvador, Bahia, Brazil
+p812
+sg8
+g58
+ssVExtra Banda
+p813
+(dp814
+g4
+VMerengue
+p815
+sg6
+VNA
+p816
+sg8
+g9
+ssVSalsa unica
+p817
+(dp818
+g4
+VSalsa
+p819
+sg6
+VNA
+p820
+sg8
+g9
+ssVChico Buarque
+p821
+(dp822
+g4
+VBolero
+p823
+sg6
+VRio de Janeiro (Brazil)
+p824
+sg8
+g23
+ssVTito Rojas
+p825
+(dp826
+g4
+VSalsa
+p827
+sg6
+VNA
+p828
+sg8
+g9
+ssVJossie Esteban
+p829
+(dp830
+g4
+VMerengue
+p831
+sg6
+VNA
+p832
+sg8
+g9
+ssVEco do Minuano & Bonitinho
+p833
+(dp834
+g4
+VGaucha
+p835
+sg6
+VNA
+p836
+sg8
+g9
+ssVKiloucura
+p837
+(dp838
+g4
+VPagode
+p839
+sg6
+VRio de Janeiro (Brazil)
+p840
+sg8
+g23
+ssVEddie Montaivo
+p841
+(dp842
+g4
+VSalsa
+p843
+sg6
+VNA
+p844
+sg8
+g9
+ssVWilly gonzalez
+p845
+(dp846
+g4
+VSalsa
+p847
+sg6
+VNA
+p848
+sg8
+g9
+ssVAngelica Maria
+p849
+(dp850
+g4
+VBolero
+p851
+sg6
+VMexico City (Mexico)
+p852
+sg8
+g283
+ssVAstor Piazzolla
+p853
+(dp854
+g4
+VTango
+p855
+sg6
+VNA
+p856
+sg8
+g9
+ssVOs Caciques
+p857
+(dp858
+g4
+VGaucha
+p859
+sg6
+VNA
+p860
+sg8
+g9
+ssVJoao chagas leite
+p861
+(dp862
+g4
+VGaucha
+p863
+sg6
+VNA
+p864
+sg8
+g9
+ssVLuis Vargas
+p865
+(dp866
+g4
+VBachata
+p867
+sg6
+VNA
+p868
+sg8
+g9
+ssVBrassa Ardiente
+p869
+(dp870
+g4
+VMerengue
+p871
+sg6
+VNA
+p872
+sg8
+g9
+ssVCrioulo dos Pampas
+p873
+(dp874
+g4
+VGaucha
+p875
+sg6
+VNA
+p876
+sg8
+g9
+ssVParatodos
+p877
+(dp878
+g4
+VForro
+p879
+sg6
+VSalvador (Brazil)
+p880
+sg8
+g106
+ssVRicky Castro
+p881
+(dp882
+g4
+VMerengue
+p883
+sg6
+VNA
+p884
+sg8
+g9
+ssVRuben Blades
+p885
+(dp886
+g4
+VSalsa
+p887
+sg6
+VNA
+p888
+sg8
+g9
+ssVDaniela Mercury
+p889
+(dp890
+g4
+VAxe
+p891
+sg6
+VSalvador, Bahia, Brazil
+p892
+sg8
+g58
+ssVOrquestra Caracas
+p893
+(dp894
+g4
+VMerengue
+p895
+sg6
+VNA
+p896
+sg8
+g9
+ssVPrimera clase
+p897
+(dp898
+g4
+VSalsa
+p899
+sg6
+VNA
+p900
+sg8
+g9
+ssVMonchi & Alexandra
+p901
+(dp902
+g4
+VBachata
+p903
+sg6
+VNA
+p904
+sg8
+g9
+ssVPiazitos do Fandango
+p905
+(dp906
+g4
+VGaucha
+p907
+sg6
+VNA
+p908
+sg8
+g9
+ssVTitti Soto
+p909
+(dp910
+g4
+VSalsa
+p911
+sg6
+VNA
+p912
+sg8
+g9
+ssVDon Andres
+p913
+(dp914
+g4
+VMerengue
+p915
+sg6
+VNA
+p916
+sg8
+g9
+ssVTulile
+p917
+(dp918
+g4
+VMerengue
+p919
+sg6
+VNA
+p920
+sg8
+g9
+ssVGrupo Renascenca
+p921
+(dp922
+g4
+VGaucha
+p923
+sg6
+VNA
+p924
+sg8
+g9
+ssVArnaldo
+p925
+(dp926
+g4
+VMerengue
+p927
+sg6
+VNA
+p928
+sg8
+g9
+ssVLinda Ronstadt
+p929
+(dp930
+g4
+VBolero
+p931
+sg6
+VLos Angeles (United States)
+p932
+sg8
+(lp933
+F34.052234200000001
+aF-118.24368490000001
+assVLupita d'Alessio
+p934
+(dp935
+g4
+VBolero
+p936
+sg6
+VTijuana, Mexico
+p937
+sg8
+g646
+ssVAfricando
+p938
+(dp939
+g4
+VSalsa
+p940
+sg6
+VNA
+p941
+sg8
+g9
+ssVPatchanka
+p942
+(dp943
+g4
+VAxe
+p944
+sg6
+VSalvador, Bahia, Brazil
+p945
+sg8
+g58
+ssVMariano
+p946
+(dp947
+g4
+VBolero
+p948
+sg6
+VNA
+p949
+sg8
+g9
+ssVRuben Dario
+p950
+(dp951
+g4
+VSalsa
+p952
+sg6
+VNA
+p953
+sg8
+g9
+ssVLuiggy Luiggy
+p954
+(dp955
+g4
+VBachata
+p956
+sg6
+VNA
+p957
+sg8
+g9
+ssVOs Garotos de Ouro
+p958
+(dp959
+g4
+VGaucha
+p960
+sg6
+VCruz Alta, Rio Grande do Sul, Brazil
+p961
+sg8
+g209
+ssVRokabanda
+p962
+(dp963
+g4
+VMerengue
+p964
+sg6
+VNA
+p965
+sg8
+g9
+ssVAndy Pena
+p966
+(dp967
+g4
+VBachata
+p968
+sg6
+VNA
+p969
+sg8
+g9
+ssVFilhos do Nordeste
+p970
+(dp971
+g4
+VForro
+p972
+sg6
+VRio de Janeiro (Brazil)
+p973
+sg8
+g23
+ssVAlceu Valenca & Elba Ramalho & Geraldo Azevedo & Ze Ramalho
+p974
+(dp975
+g4
+VForro
+p976
+sg6
+VJoao Pessoa, Brazil
+p977
+sg8
+(lp978
+F-7.1153199999999996
+aF-34.861051199999999
+assVReginaldo Rossi
+p979
+(dp980
+g4
+VBolero
+p981
+sg6
+VRecife (Brazil)
+p982
+sg8
+(lp983
+F-8.0542774999999995
+aF-34.881256100000002
+assVNelcy vargas
+p984
+(dp985
+g4
+VGaucha
+p986
+sg6
+VNA
+p987
+sg8
+g9
+ssVCELIA CRUZ
+p988
+(dp989
+g4
+VSalsa
+p990
+sg6
+VNA
+p991
+sg8
+g9
+ssVFrank Reyes
+p992
+(dp993
+g4
+VBachata
+p994
+sg6
+VNA
+p995
+sg8
+g9
+ssVTrio Virgulino & Dominguinhos
+p996
+(dp997
+g4
+VForro
+p998
+sg6
+VSão Paulo, Brazil
+p999
+sg8
+g194
+ssVEDDIE SANTIAGO
+p1000
+(dp1001
+g4
+VSalsa
+p1002
+sg6
+VNA
+p1003
+sg8
+g9
+ssVNana Caymmi
+p1004
+(dp1005
+g4
+VBolero
+p1006
+sg6
+VRio de Janeiro (Brazil)
+p1007
+sg8
+g23
+ssVMaelo
+p1008
+(dp1009
+g4
+VSalsa
+p1010
+sg6
+VNA
+p1011
+sg8
+g9
+ssVTche Garotos
+p1012
+(dp1013
+g4
+VGaucha
+p1014
+sg6
+VNA
+p1015
+sg8
+g9
+ssVRaul Seixas
+p1016
+(dp1017
+g4
+VBolero
+p1018
+sg6
+VSalvador (Brazil)
+p1019
+sg8
+g106
+ssVAstor Piazzolla & Gary Burton
+p1020
+(dp1021
+g4
+VTango
+p1022
+sg6
+VNA
+p1023
+sg8
+g9
+ssVIvete Sangalo & Olodum
+p1024
+(dp1025
+g4
+VAxe
+p1026
+sg6
+VSalvador, Bahia, Brazil
+p1027
+sg8
+g58
+ssVTrad
+p1028
+(dp1029
+g4
+VSalsa
+p1030
+sg6
+VNA
+p1031
+sg8
+g9
+ssVA Passion For Tango
+p1032
+(dp1033
+g4
+VTango
+p1034
+sg6
+VNA
+p1035
+sg8
+g9
+ssVJoao Luiz Correa
+p1036
+(dp1037
+g4
+VGaucha
+p1038
+sg6
+VNA
+p1039
+sg8
+g9
+ssVBatom Na Cueca
+p1040
+(dp1041
+g4
+VAxe
+p1042
+sg6
+VBrasilia, DF, Brazil
+p1043
+sg8
+(lp1044
+F-15.780148199999999
+aF-47.929169799999997
+assVWilly Chirino
+p1045
+(dp1046
+g4
+VBolero
+p1047
+sg6
+VHialeah (United States)
+p1048
+sg8
+(lp1049
+F25.857596300000001
+aF-80.278105699999998
+assVBachata Duo
+p1050
+(dp1051
+g4
+VBachata
+p1052
+sg6
+VNA
+p1053
+sg8
+g9
+ssVJayme caetano braun
+p1054
+(dp1055
+g4
+VGaucha
+p1056
+sg6
+VNA
+p1057
+sg8
+g9
+ssVGrupo minuano
+p1058
+(dp1059
+g4
+VGaucha
+p1060
+sg6
+VNA
+p1061
+sg8
+g9
+ssVMala Fe
+p1062
+(dp1063
+g4
+VMerengue
+p1064
+sg6
+VNA
+p1065
+sg8
+g9
+ssVJoao Bosco
+p1066
+(dp1067
+g4
+VBolero
+p1068
+sg6
+VRio de Janeiro (Brazil)
+p1069
+sg8
+g23
+ssVBanda Mel
+p1070
+(dp1071
+g4
+VAxe
+p1072
+sg6
+VSalvador, Bahia, Brazil
+p1073
+sg8
+g58
+ssVPaulo Siqueira & Grupo Velha Porteira
+p1074
+(dp1075
+g4
+VGaucha
+p1076
+sg6
+VNA
+p1077
+sg8
+g9
+ssVOz Bambaz
+p1078
+(dp1079
+g4
+VAxe
+p1080
+sg6
+VSalvador, Bahia, Brazil
+p1081
+sg8
+g58
+ssVLuiz Gonzaga & Trio Virgulino
+p1082
+(dp1083
+g4
+VForro
+p1084
+sg6
+VRecife (Brazil)
+p1085
+sg8
+g983
+ssVMambo
+p1086
+(dp1087
+g4
+VMerengue
+p1088
+sg6
+VNA
+p1089
+sg8
+g9
+ssVMinuano
+p1090
+(dp1091
+g4
+VGaucha
+p1092
+sg6
+VNA
+p1093
+sg8
+g9
+ssVElymar Santos
+p1094
+(dp1095
+g4
+VBolero
+p1096
+sg6
+VRio de Janeiro (Brazil)
+p1097
+sg8
+g23
+ssVGrupo Truma
+p1098
+(dp1099
+g4
+VGaucha
+p1100
+sg6
+VNA
+p1101
+sg8
+g9
+ssVZeca Pagodinho
+p1102
+(dp1103
+g4
+VPagode
+p1104
+sg6
+VRio de Janeiro (Brazil)
+p1105
+sg8
+g23
+ssVEl Jeffrey
+p1106
+(dp1107
+g4
+VBachata
+p1108
+sg6
+VNA
+p1109
+sg8
+g9
+ssVManole Manole
+p1110
+(dp1111
+g4
+VMerengue
+p1112
+sg6
+VNA
+p1113
+sg8
+g9
+ssVJaime Roos
+p1114
+(dp1115
+g4
+VSalsa
+p1116
+sg6
+VNA
+p1117
+sg8
+g9
+ssVGal Costa
+p1118
+(dp1119
+g4
+VBolero
+p1120
+sg6
+VSalvador (Brazil)
+p1121
+sg8
+g106
+ssVLa Makina
+p1122
+(dp1123
+g4
+VMerengue
+p1124
+sg6
+VNA
+p1125
+sg8
+g9
+ssVMarcelo Noms
+p1126
+(dp1127
+g4
+VGaucha
+p1128
+sg6
+VPorto Alegre , Rio Grande do Su, Brazil
+p1129
+sg8
+(lp1130
+F-30.027704100000001
+aF-51.228734600000003
+assVBachata Magic
+p1131
+(dp1132
+g4
+VBolero
+p1133
+sg6
+VNA
+p1134
+sg8
+g9
+ssVOs Campeiros
+p1135
+(dp1136
+g4
+VGaucha
+p1137
+sg6
+VCaxias do Sul, RS, Brazil
+p1138
+sg8
+(lp1139
+F-29.167824400000001
+aF-51.179382999999987
+assVGrupo quero-quero
+p1140
+(dp1141
+g4
+VGaucha
+p1142
+sg6
+VPorto Alegre - Rio Grande do Sul, Brazil
+p1143
+sg8
+g410
+ssVWalfrido Vargas
+p1144
+(dp1145
+g4
+VMerengue
+p1146
+sg6
+VNA
+p1147
+sg8
+g9
+ssVAdelmo Reieffel
+p1148
+(dp1149
+g4
+VGaucha
+p1150
+sg6
+VNA
+p1151
+sg8
+g9
+ssVOs Buenachos
+p1152
+(dp1153
+g4
+VGaucha
+p1154
+sg6
+VSanta Cruz Do Sul, Rio Grande Do Sul, Brazil
+p1155
+sg8
+g604
+ssVEllis Regina
+p1156
+(dp1157
+g4
+VBolero
+p1158
+sg6
+VPorto Alegre, Brazil
+p1159
+sg8
+(lp1160
+F-30.027704100000001
+aF-51.228734600000003
+assVOlga Tanon
+p1161
+(dp1162
+g4
+VMerengue
+p1163
+sg6
+VNA
+p1164
+sg8
+g9
+ssVMPB4
+p1165
+(dp1166
+g4
+VBolero
+p1167
+sg6
+VRio de Janeiro (Brazil)
+p1168
+sg8
+g23
+ssVIvente Sangalo
+p1169
+(dp1170
+g4
+VAxe
+p1171
+sg6
+VJuazeiro, Bahia, Brazil
+p1172
+sg8
+(lp1173
+F-9.4254161000000014
+aF-40.505766600000001
+assVAmarfis
+p1174
+(dp1175
+g4
+VMerengue
+p1176
+sg6
+VNA
+p1177
+sg8
+g9
+ssVMarina Lima
+p1178
+(dp1179
+g4
+VBolero
+p1180
+sg6
+VRio de Janeiro (Brazil)
+p1181
+sg8
+g23
+ssVTche Guri
+p1182
+(dp1183
+g4
+VGaucha
+p1184
+sg6
+VSão Leopold,  Rio Grande Do Sul, Brazil
+p1185
+sg8
+(lp1186
+F-29.760776799999999
+aF-51.1521677
+assVGrupo Sensacao
+p1187
+(dp1188
+g4
+VPagode
+p1189
+sg6
+VSao Paulo (Brazil)
+p1190
+sg8
+g237
+ssVLevada Louca
+p1191
+(dp1192
+g4
+VAxe
+p1193
+sg6
+VSalvador, Bahia, Brazil
+p1194
+sg8
+g58
+ssVMarc Antony
+p1195
+(dp1196
+g4
+VBolero
+p1197
+sg6
+VNew York, NY USA
+p1198
+sg8
+g518
+ssVAlex El Biscochito
+p1199
+(dp1200
+g4
+VBachata
+p1201
+sg6
+VNA
+p1202
+sg8
+g9
+ssVAntoninho Duarte
+p1203
+(dp1204
+g4
+VGaucha
+p1205
+sg6
+VNA
+p1206
+sg8
+g9
+ssVGrupo Liberdade
+p1207
+(dp1208
+g4
+VGaucha
+p1209
+sg6
+VArizona, USA
+p1210
+sg8
+g436
+ssVFlor de Tabaco
+p1211
+(dp1212
+g4
+VBachata
+p1213
+sg6
+VNA
+p1214
+sg8
+g9
+ssVRick & Renner
+p1215
+(dp1216
+g4
+VSertaneja
+p1217
+sg6
+Vbrasilia, brazil
+p1218
+sg8
+(lp1219
+F-15.780148199999999
+aF-47.929169799999997
+assVRoberto Blades
+p1220
+(dp1221
+g4
+VSalsa
+p1222
+sg6
+VNA
+p1223
+sg8
+g9
+ssVIvete Sangalo & Netinho
+p1224
+(dp1225
+g4
+VAxe
+p1226
+sg6
+VSalvador, Bahia, Brazil
+p1227
+sg8
+g58
+ssVLos Tres Caballeros
+p1228
+(dp1229
+g4
+VBolero
+p1230
+sg6
+VMexico City (Mexico)
+p1231
+sg8
+g283
+ssVNey Matogrosso
+p1232
+(dp1233
+g4
+VForro
+p1234
+sg6
+VRio de Janeiro (Brazil)
+p1235
+sg8
+g23
+ssVOmmar
+p1236
+(dp1237
+g4
+VSalsa
+p1238
+sg6
+VNA
+p1239
+sg8
+g9
+ssVMimi Ibarra
+p1240
+(dp1241
+g4
+VSalsa
+p1242
+sg6
+VNA
+p1243
+sg8
+g9
+ssVEraci Rocha
+p1244
+(dp1245
+g4
+VGaucha
+p1246
+sg6
+VCruz Alta, Rio Grande do Sul, Brazil
+p1247
+sg8
+g209
+ssVKiko Rodriguez
+p1248
+(dp1249
+g4
+VBachata
+p1250
+sg6
+VNA
+p1251
+sg8
+g9
+ssVTego Calderon
+p1252
+(dp1253
+g4
+VBachata
+p1254
+sg6
+VNA
+p1255
+sg8
+g9
+ssVGrupo Mania
+p1256
+(dp1257
+g4
+VMerengue
+p1258
+sg6
+VNA
+p1259
+sg8
+g9
+ssVNelson De La Olla
+p1260
+(dp1261
+g4
+VMerengue
+p1262
+sg6
+VNA
+p1263
+sg8
+g9
+ssVPaul McCartney
+p1264
+(dp1265
+g4
+VBolero
+p1266
+sg6
+VLondon, England
+p1267
+sg8
+g683
+ssVLulu Santos
+p1268
+(dp1269
+g4
+VBolero
+p1270
+sg6
+VRio de Janeiro (Brazil)
+p1271
+sg8
+g23
+ssVMaria Bethania
+p1272
+(dp1273
+g4
+VBolero
+p1274
+sg6
+VSalvador (Brazil)
+p1275
+sg8
+g106
+ssVTabaco & Sus Metales
+p1276
+(dp1277
+g4
+VBachata
+p1278
+sg6
+VNA
+p1279
+sg8
+g9
+ssVOs mateadores
+p1280
+(dp1281
+g4
+VGaucha
+p1282
+sg6
+VJaguari - Rio Grande do Sul, Brazil
+p1283
+sg8
+g401
+ssVRicky Castro Y Su Banda Soberbia
+p1284
+(dp1285
+g4
+VMerengue
+p1286
+sg6
+VNA
+p1287
+sg8
+g9
+ssVTrio Nordestino
+p1288
+(dp1289
+g4
+VForro
+p1290
+sg6
+VRio de Janeiro (Brazil)
+p1291
+sg8
+g23
+ssVAmarfis & July July
+p1292
+(dp1293
+g4
+VMerengue
+p1294
+sg6
+VNA
+p1295
+sg8
+g9
+ssVAnibal Alves
+p1296
+(dp1297
+g4
+VGaucha
+p1298
+sg6
+VSanta Cruz Do Sul, Rio Grande Do Sul, Brazil
+p1299
+sg8
+g604
+ssVGerson Fogaca
+p1300
+(dp1301
+g4
+VGaucha
+p1302
+sg6
+VCruz Alta, Rio Grande do Sul, Brazil
+p1303
+sg8
+g209
+ssVJulio Madrid
+p1304
+(dp1305
+g4
+VBolero
+p1306
+sg6
+VMadrid (Spain)
+p1307
+sg8
+g222
+ssVDe Fio a Pavio
+p1308
+(dp1309
+g4
+VForro
+p1310
+sg6
+VNA
+p1311
+sg8
+g9
+ssVJosean
+p1312
+(dp1313
+g4
+VSalsa
+p1314
+sg6
+VNA
+p1315
+sg8
+g9
+ssVAnna Belen & Antonio Banderas
+p1316
+(dp1317
+g4
+VBolero
+p1318
+sg6
+VMadrid (Spain)
+p1319
+sg8
+g222
+ssVChiquito & Bordoneio
+p1320
+(dp1321
+g4
+VGaucha
+p1322
+sg6
+VErechim - Rio Grande do Sul, Brazil
+p1323
+sg8
+(lp1324
+F-27.629494999999999
+aF-52.236117800000002
+assVGrupo candeeiro
+p1325
+(dp1326
+g4
+VGaucha
+p1327
+sg6
+VItapema - Santa Catarina, Brazil
+p1328
+sg8
+g792
+ssVMano Lima
+p1329
+(dp1330
+g4
+VGaucha
+p1331
+sg6
+VNA
+p1332
+sg8
+g9
+ssVEnrique Feliz
+p1333
+(dp1334
+g4
+VBachata
+p1335
+sg6
+VNA
+p1336
+sg8
+g9
+ssVTeodoro & Sampaio
+p1337
+(dp1338
+g4
+VSertaneja
+p1339
+sg6
+VSanto Antônio da Platina - Paraná, Brazil
+p1340
+sg8
+(lp1341
+F-23.298256299999998
+aF-50.069389000000001
+assVPedro ortaca
+p1342
+(dp1343
+g4
+VGaucha
+p1344
+sg6
+VSão Luiz Gonzaga - Rio Grande do Sul, Brazil
+p1345
+sg8
+(lp1346
+F-28.407398499999999
+aF-54.961304899999988
+assVMarc Antony & Jennifer Lopez
+p1347
+(dp1348
+g4
+VSalsa
+p1349
+sg6
+VNA
+p1350
+sg8
+g9
+ssVDeskkontrolados
+p1351
+(dp1352
+g4
+VMerengue
+p1353
+sg6
+VNA
+p1354
+sg8
+g9
+ssVGrupo Querencia
+p1355
+(dp1356
+g4
+VGaucha
+p1357
+sg6
+VNA
+p1358
+sg8
+g9
+ssVOro Duro
+p1359
+(dp1360
+g4
+VMerengue
+p1361
+sg6
+VNA
+p1362
+sg8
+g9
+ssVAnthony Cruz
+p1363
+(dp1364
+g4
+VSalsa
+p1365
+sg6
+VNA
+p1366
+sg8
+g9
+ssVArt Popular
+p1367
+(dp1368
+g4
+VPagode
+p1369
+sg6
+VSao Paulo (Brazil)
+p1370
+sg8
+g237
+ssVLa Banda Gorda
+p1371
+(dp1372
+g4
+VMerengue
+p1373
+sg6
+VNA
+p1374
+sg8
+g9
+ssVGrupo Niche
+p1375
+(dp1376
+g4
+VSalsa
+p1377
+sg6
+VNA
+p1378
+sg8
+g9
+ssVPedro Conga
+p1379
+(dp1380
+g4
+VSalsa
+p1381
+sg6
+VNA
+p1382
+sg8
+g9
+ssVZeca Pagodinho & Ivan Milanez
+p1383
+(dp1384
+g4
+VPagode
+p1385
+sg6
+VRio de Janeiro (Brazil)
+p1386
+sg8
+g23
+ssVHino Rio-Grandense
+p1387
+(dp1388
+g4
+VGaucha
+p1389
+sg6
+VRio Grande do Sul, Brazil
+p1390
+sg8
+(lp1391
+F-29.534504999999999
+aF-53.3906074
+assVSasha
+p1392
+(dp1393
+g4
+VBolero
+p1394
+sg6
+VMexico City (Mexico)
+p1395
+sg8
+g283
+ssVSafire
+p1396
+(dp1397
+g4
+VSalsa
+p1398
+sg6
+VNA
+p1399
+sg8
+g9
+ssVAndy Aguilera
+p1400
+(dp1401
+g4
+VBachata
+p1402
+sg6
+VNA
+p1403
+sg8
+g9
+ssVTrio Zeferino
+p1404
+(dp1405
+g4
+VForro
+p1406
+sg6
+VBelo Horizonte - Minas Gerais, Brazil
+p1407
+sg8
+(lp1408
+F-19.919067699999999
+aF-43.938574699999997
+assVGuilherme & Santiago
+p1409
+(dp1410
+g4
+VSertaneja
+p1411
+sg6
+VGoiânia, Goiás, Brazil
+p1412
+sg8
+(lp1413
+F-16.677715299999999
+aF-49.267629599999999
+assVGrupo Mio
+p1414
+(dp1415
+g4
+VMerengue
+p1416
+sg6
+VNA
+p1417
+sg8
+g9
+ssVIsmael Miranda & JuniorGonzales
+p1418
+(dp1419
+g4
+VSalsa
+p1420
+sg6
+VNA
+p1421
+sg8
+g9
+ssVEstakaZero
+p1422
+(dp1423
+g4
+VForro
+p1424
+sg6
+VSalvador, Bahia, Brazil
+p1425
+sg8
+g58
+ssVNueva Era
+p1426
+(dp1427
+g4
+VBachata
+p1428
+sg6
+VNA
+p1429
+sg8
+g9
+ssVTony Swing
+p1430
+(dp1431
+g4
+VMerengue
+p1432
+sg6
+VNA
+p1433
+sg8
+g9
+ssVZeze Di Camargo & Luciano
+p1434
+(dp1435
+g4
+VSertaneja
+p1436
+sg6
+VPirenópolis, Goiás, Brazil
+p1437
+sg8
+(lp1438
+F-15.8538035
+aF-48.958553700000003
+assVD. Fernandez & C. Rodriguez
+p1439
+(dp1440
+g4
+VMerengue
+p1441
+sg6
+VNA
+p1442
+sg8
+g9
+ssVJoe Veras & Alex Bueno
+p1443
+(dp1444
+g4
+VBachata
+p1445
+sg6
+VNA
+p1446
+sg8
+g9
+ssVBoleros Latinos II
+p1447
+(dp1448
+g4
+VBolero
+p1449
+sg6
+VNA
+p1450
+sg8
+g9
+ssVBerenice Azambuj
+p1451
+(dp1452
+g4
+VGaucha
+p1453
+sg6
+VPorto Alegre - Rio Grande do Sul, Brazil
+p1454
+sg8
+g410
+ssVTeodoro e Sampaio
+p1455
+(dp1456
+g4
+VSertaneja
+p1457
+sg6
+VSanto Antônio da Platina - Paraná, Brazil
+p1458
+sg8
+g1341
+ssVEl Grupo Romance
+p1459
+(dp1460
+g4
+VBachata
+p1461
+sg6
+VNA
+p1462
+sg8
+g9
+ssVMagneto
+p1463
+(dp1464
+g4
+VBolero
+p1465
+sg6
+VMexico City (Mexico)
+p1466
+sg8
+g283
+ssVManikkomio
+p1467
+(dp1468
+g4
+VMerengue
+p1469
+sg6
+VNA
+p1470
+sg8
+g9
+ssVRicardo-Barbieri-Aguilar
+p1471
+(dp1472
+g4
+VTango
+p1473
+sg6
+VNA
+p1474
+sg8
+g9
+ssVGarotos do Fandango
+p1475
+(dp1476
+g4
+VGaucha
+p1477
+sg6
+VCerro Largo, Rio Grande do Sul, Brazil
+p1478
+sg8
+(lp1479
+F-28.1501068
+aF-54.738904299999987
+assVTchaka Bum
+p1480
+(dp1481
+g4
+VAxe
+p1482
+sg6
+VRio de Janeiro, Brazil
+p1483
+sg8
+(lp1484
+F-22.903539299999998
+aF-43.209586899999998
+assVCristian Cristian
+p1485
+(dp1486
+g4
+VBachata
+p1487
+sg6
+VNA
+p1488
+sg8
+g9
+ssVToquinho & Vinicius
+p1489
+(dp1490
+g4
+VBolero
+p1491
+sg6
+VRio de Janeiro (Brazil)
+p1492
+sg8
+g23
+ssVGrupo 747
+p1493
+(dp1494
+g4
+VMerengue
+p1495
+sg6
+VNA
+p1496
+sg8
+g9
+ssVFreddy Gerardo
+p1497
+(dp1498
+g4
+VMerengue
+p1499
+sg6
+VNA
+p1500
+sg8
+g9
+ssVRastape & Baiao de Quatro
+p1501
+(dp1502
+g4
+VForro
+p1503
+sg6
+VSão Paulo, Brazil
+p1504
+sg8
+g194
+ssVGrupo Revelacao
+p1505
+(dp1506
+g4
+VPagode
+p1507
+sg6
+VRio de Janeiro (Brazil)
+p1508
+sg8
+g23
+ssVEdwin
+p1509
+(dp1510
+g4
+VSalsa
+p1511
+sg6
+VNA
+p1512
+sg8
+g9
+ssVLeila Pinheiro
+p1513
+(dp1514
+g4
+VBolero
+p1515
+sg6
+VBelém, Pará, Brazil
+p1516
+sg8
+(lp1517
+F-1.4550205
+aF-48.502368199999999
+assVKatinguele
+p1518
+(dp1519
+g4
+VPagode
+p1520
+sg6
+VSao Paulo (Brazil)
+p1521
+sg8
+g237
+ssVFrank Sinatra
+p1522
+(dp1523
+g4
+VBolero
+p1524
+sg6
+VHoboken, NJ, USA
+p1525
+sg8
+(lp1526
+F40.743990500000002
+aF-74.032362599999999
+assVGrupo Chamamento
+p1527
+(dp1528
+g4
+VGaucha
+p1529
+sg6
+VNA
+p1530
+sg8
+g9
+ssVHomeboys
+p1531
+(dp1532
+g4
+VMerengue
+p1533
+sg6
+VNA
+p1534
+sg8
+g9
+ssVBanda Cheiro de Amor
+p1535
+(dp1536
+g4
+VAxe
+p1537
+sg6
+VSalvador, Bahia, Brazil
+p1538
+sg8
+g58
+ssVMarines Siqueira & Grupo Missoes
+p1539
+(dp1540
+g4
+VGaucha
+p1541
+sg6
+VNA
+p1542
+sg8
+g9
+ssVGrupo Taruma
+p1543
+(dp1544
+g4
+VGaucha
+p1545
+sg6
+VNA
+p1546
+sg8
+g9
+ssVIvente Sangalo & Gilberto Gil
+p1547
+(dp1548
+g4
+VAxe
+p1549
+sg6
+VSalvador, Bahia, Brazil
+p1550
+sg8
+g58
+ssVThalia
+p1551
+(dp1552
+g4
+VBolero
+p1553
+sg6
+VMexico City (Mexico)
+p1554
+sg8
+g283
+ssVRonny Moreno
+p1555
+(dp1556
+g4
+VMerengue
+p1557
+sg6
+VNA
+p1558
+sg8
+g9
+ssVJuan Manuel
+p1559
+(dp1560
+g4
+VBachata
+p1561
+sg6
+VNA
+p1562
+sg8
+g9
+ssVFernadito Villalona & Alex Bueno & Sergio Vargas & Ramon Orlando
+p1563
+(dp1564
+g4
+VBolero
+p1565
+sg6
+VSanto Domingo, Dominican Republic
+p1566
+sg8
+g330
+ssVGrupo Minuano
+p1567
+(dp1568
+g4
+VGaucha
+p1569
+sg6
+VNA
+p1570
+sg8
+g9
+ssVPaulo Costa
+p1571
+(dp1572
+g4
+VGaucha
+p1573
+sg6
+VNA
+p1574
+sg8
+g9
+ssVOs Veteranos
+p1575
+(dp1576
+g4
+VGaucha
+p1577
+sg6
+VNA
+p1578
+sg8
+g9
+ssVLa Fever Banda
+p1579
+(dp1580
+g4
+VMerengue
+p1581
+sg6
+VNA
+p1582
+sg8
+g9
+ssVOrquesta Caracas
+p1583
+(dp1584
+g4
+VMerengue
+p1585
+sg6
+VNA
+p1586
+sg8
+g9
+ssVRastape e Baiao de Quatro
+p1587
+(dp1588
+g4
+VForro
+p1589
+sg6
+VSão Paulo, Brazil
+p1590
+sg8
+g194
+ssVOs Araganos
+p1591
+(dp1592
+g4
+VGaucha
+p1593
+sg6
+VNA
+p1594
+sg8
+g9
+ssVIndio Sepe
+p1595
+(dp1596
+g4
+VGaucha
+p1597
+sg6
+VNA
+p1598
+sg8
+g9
+ssVManny Manuel
+p1599
+(dp1600
+g4
+VMerengue
+p1601
+sg6
+VNA
+p1602
+sg8
+g9
+ssVTrio Nordestino & Alceu Valenca
+p1603
+(dp1604
+g4
+VForro
+p1605
+sg6
+VRio de Janeiro (Brazil)
+p1606
+sg8
+g23
+ssVTony Y Marea Alta
+p1607
+(dp1608
+g4
+VMerengue
+p1609
+sg6
+VNA
+p1610
+sg8
+g9
+ssVIvete Sangalo
+p1611
+(dp1612
+g4
+VAxe
+p1613
+sg6
+VJuazeiro, Bahia, Brazil
+p1614
+sg8
+g1173
+ssVDichen
+p1615
+(dp1616
+g4
+VBachata
+p1617
+sg6
+VNA
+p1618
+sg8
+g9
+ssVGonzaga dos Reis
+p1619
+(dp1620
+g4
+VGaucha
+p1621
+sg6
+VNA
+p1622
+sg8
+g9
+ssVOs Guapos
+p1623
+(dp1624
+g4
+VGaucha
+p1625
+sg6
+VNA
+p1626
+sg8
+g9
+ssVCheque Especial
+p1627
+(dp1628
+g4
+VBolero
+p1629
+sg6
+VRio de Janeiro (Brazil)
+p1630
+sg8
+g23
+ssVZacararias Ferreira
+p1631
+(dp1632
+g4
+VBachata
+p1633
+sg6
+VNA
+p1634
+sg8
+g9
+ssVGonzaguinha
+p1635
+(dp1636
+g4
+VBolero
+p1637
+sg6
+VRio de Janeiro (Brazil)
+p1638
+sg8
+g23
+ssVLuis Miguel
+p1639
+(dp1640
+g4
+VBolero
+p1641
+sg6
+VMexico City (Mexico)
+p1642
+sg8
+g283
+ssVEl Gringo De La Bachata
+p1643
+(dp1644
+g4
+VBachata
+p1645
+sg6
+VNA
+p1646
+sg8
+g9
+ssVVictor Manuelle
+p1647
+(dp1648
+g4
+VSalsa
+p1649
+sg6
+VNA
+p1650
+sg8
+g9
+ssVTerra Samba
+p1651
+(dp1652
+g4
+VAxe
+p1653
+sg6
+VSalvador, Bahia, Brazil
+p1654
+sg8
+g58
+ssVAnthony Cryz
+p1655
+(dp1656
+g4
+VSalsa
+p1657
+sg6
+VNA
+p1658
+sg8
+g9
+ssVBeto Caetano
+p1659
+(dp1660
+g4
+VGaucha
+p1661
+sg6
+VSantiago, Rio Grande Do Sul, Brazil
+p1662
+sg8
+(lp1663
+F-29.191373299999999
+aF-54.865667199999997
+assVEdson & Hudson
+p1664
+(dp1665
+g4
+VSertaneja
+p1666
+sg6
+VLimeira - SP, Brazil
+p1667
+sg8
+(lp1668
+F-22.564540600000001
+aF-47.4004093
+assVElvis Crespo
+p1669
+(dp1670
+g4
+VMerengue
+p1671
+sg6
+VNA
+p1672
+sg8
+g9
+ssVAlex Leon
+p1673
+(dp1674
+g4
+VSalsa
+p1675
+sg6
+VNA
+p1676
+sg8
+g9
+ssVGilberto Santa Rosa
+p1677
+(dp1678
+g4
+VBolero
+p1679
+sg6
+VCarolina, Puerto Rico
+p1680
+sg8
+(lp1681
+F18.380781899999999
+aF-65.957387199999999
+assVPuerto Rican Power
+p1682
+(dp1683
+g4
+VSalsa
+p1684
+sg6
+VNA
+p1685
+sg8
+g9
+ssVPrimera Classe
+p1686
+(dp1687
+g4
+VSalsa
+p1688
+sg6
+VNA
+p1689
+sg8
+g9
+ssVJose Manuel
+p1690
+(dp1691
+g4
+VBachata
+p1692
+sg6
+VNA
+p1693
+sg8
+g9
+ssVMarisa Monte
+p1694
+(dp1695
+g4
+VForro
+p1696
+sg6
+VRio de Janeiro (Brazil)
+p1697
+sg8
+g23
+ssVGrupo Charla
+p1698
+(dp1699
+g4
+VGaucha
+p1700
+sg6
+VNA
+p1701
+sg8
+g9
+ssVAida Cuevas
+p1702
+(dp1703
+g4
+VBolero
+p1704
+sg6
+VMexico City (Mexico)
+p1705
+sg8
+g283
+ssVMaremoto
+p1706
+(dp1707
+g4
+VMerengue
+p1708
+sg6
+VNA
+p1709
+sg8
+g9
+ssVCaiana
+p1710
+(dp1711
+g4
+VForro
+p1712
+sg6
+VCaiana, Brazil
+p1713
+sg8
+(lp1714
+F-20.6954402
+aF-41.923501799999997
+assVEl Bonche
+p1715
+(dp1716
+g4
+VMerengue
+p1717
+sg6
+VNA
+p1718
+sg8
+g9
+ssVGilberto Gil
+p1719
+(dp1720
+g4
+VForro
+p1721
+sg6
+VSalvador (Brazil)
+p1722
+sg8
+g106
+ssVReinaldo
+p1723
+(dp1724
+g4
+VBolero
+p1725
+sg6
+VMaracay (Venezuela)
+p1726
+sg8
+(lp1727
+F10.2469444
+aF-67.596111100000002
+assVSanta Esmeralda
+p1728
+(dp1729
+g4
+VBolero
+p1730
+sg6
+VNew York, NY USA
+p1731
+sg8
+g518
+ssVMelina Leon
+p1732
+(dp1733
+g4
+VMerengue
+p1734
+sg6
+VNA
+p1735
+sg8
+g9
+ssVLos Sabrosos del merengue
+p1736
+(dp1737
+g4
+VMerengue
+p1738
+sg6
+VNA
+p1739
+sg8
+g9
+ssVAs Meninas
+p1740
+(dp1741
+g4
+VAxe
+p1742
+sg6
+VSalvador, Bahia, Brazil
+p1743
+sg8
+g58
+ssVDjavan
+p1744
+(dp1745
+g4
+VBolero
+p1746
+sg6
+VRio de Janeiro (Brazil)
+p1747
+sg8
+g23
+ssVCana Brava
+p1748
+(dp1749
+g4
+VMerengue
+p1750
+sg6
+VNA
+p1751
+sg8
+g9
+ssVChiquito & Grupo Bordoneio
+p1752
+(dp1753
+g4
+VGaucha
+p1754
+sg6
+VNA
+p1755
+sg8
+g9
+ssVOs Sungas
+p1756
+(dp1757
+g4
+VAxe
+p1758
+sg6
+VSalvador, Bahia, Brazil
+p1759
+sg8
+g58
+ssVLos Toros Band
+p1760
+(dp1761
+g4
+VMerengue
+p1762
+sg6
+VNA
+p1763
+sg8
+g9
+ssVFrankie Negron
+p1764
+(dp1765
+g4
+VSalsa
+p1766
+sg6
+VNA
+p1767
+sg8
+g9
+ssVCandieiro
+p1768
+(dp1769
+g4
+VGaucha
+p1770
+sg6
+VNA
+p1771
+sg8
+g9
+ssVMichell
+p1772
+(dp1773
+g4
+VBachata
+p1774
+sg6
+VNA
+p1775
+sg8
+g9
+ssVJoe Veras
+p1776
+(dp1777
+g4
+VMerengue
+p1778
+sg6
+VNA
+p1779
+sg8
+g9
+ssVWillie Colon & Ismael Miranda
+p1780
+(dp1781
+g4
+VSalsa
+p1782
+sg6
+VNA
+p1783
+sg8
+g9
+ssVFlor Yvon
+p1784
+(dp1785
+g4
+VBolero
+p1786
+sg6
+VMexico City (Mexico)
+p1787
+sg8
+g283
+ssVLeo Marini
+p1788
+(dp1789
+g4
+VBolero
+p1790
+sg6
+VMendoza, Argentina
+p1791
+sg8
+(lp1792
+F-32.890183
+aF-68.844049799999993
+assVGal Costa & Erasmo Carlos
+p1793
+(dp1794
+g4
+VBolero
+p1795
+sg6
+VSalvador (Brazil)
+p1796
+sg8
+g106
+ssVClase aparte
+p1797
+(dp1798
+g4
+VMerengue
+p1799
+sg6
+VNA
+p1800
+sg8
+g9
+ssVD.R.
+p1801
+(dp1802
+g4
+VSalsa
+p1803
+sg6
+VNA
+p1804
+sg8
+g9
+ssVLeydy Bonilla & Luis Miguel Del Amargue
+p1805
+(dp1806
+g4
+VBachata
+p1807
+sg6
+VNA
+p1808
+sg8
+g9
+ssVDez Anos
+p1809
+(dp1810
+g4
+VBolero
+p1811
+sg6
+VRio de Janeiro (Brazil)
+p1812
+sg8
+g23
+ssVLucho Gatica
+p1813
+(dp1814
+g4
+VBolero
+p1815
+sg6
+VRancagua, Chile
+p1816
+sg8
+(lp1817
+F-34.168052000000003
+aF-70.738964999999993
+assVElis Regina & Cauby
+p1818
+(dp1819
+g4
+VBolero
+p1820
+sg6
+VRio de Janeiro (Brazil)
+p1821
+sg8
+g23
+ssVCelia Cruz_ India
+p1822
+(dp1823
+g4
+VSalsa
+p1824
+sg6
+VNA
+p1825
+sg8
+g9
+ssVCriolo dos Pampas
+p1826
+(dp1827
+g4
+VGaucha
+p1828
+sg6
+VNA
+p1829
+sg8
+g9
+ssVGloria Estefan
+p1830
+(dp1831
+g4
+VBolero
+p1832
+sg6
+VHavana, Cuba
+p1833
+sg8
+g185
+ssVAlejandro Fernandez
+p1834
+(dp1835
+g4
+VBolero
+p1836
+sg6
+VGuadalajara (Mexico)
+p1837
+sg8
+(lp1838
+F20.673590000000001
+aF-103.34380299999999
+assVTodos do Festche
+p1839
+(dp1840
+g4
+VGaucha
+p1841
+sg6
+VNA
+p1842
+sg8
+g9
+ssVTimbalada & Carlinhos Brown
+p1843
+(dp1844
+g4
+VAxe
+p1845
+sg6
+VSalvador, Bahia, Brazil
+p1846
+sg8
+g58
+ssVOs Serranos
+p1847
+(dp1848
+g4
+VGaucha
+p1849
+sg6
+VNA
+p1850
+sg8
+g9
+ssVFrancisco Xavier
+p1851
+(dp1852
+g4
+VBolero
+p1853
+sg6
+VTulancingo, Hidalgo Mexico
+p1854
+sg8
+(lp1855
+F20.084375999999999
+aF-98.367992999999998
+assVOs tiranos
+p1856
+(dp1857
+g4
+VGaucha
+p1858
+sg6
+VNA
+p1859
+sg8
+g9
+ssVBoka Loka
+p1860
+(dp1861
+g4
+VPagode
+p1862
+sg6
+VXaxim - Santa Catarina, Brazil
+p1863
+sg8
+(lp1864
+F-26.961912399999999
+aF-52.535204800000002
+assVDudu Nobre
+p1865
+(dp1866
+g4
+VPagode
+p1867
+sg6
+VRio de Janeiro (Brazil)
+p1868
+sg8
+g23
+ssVCheiro de Amor
+p1869
+(dp1870
+g4
+VAxe
+p1871
+sg6
+VSalvador, Bahia, Brazil
+p1872
+sg8
+g58
+ssVCarla Cristina
+p1873
+(dp1874
+g4
+VAxe
+p1875
+sg6
+VSalvador, Bahia, Brazil
+p1876
+sg8
+g58
+ssVPochi & Cocoband
+p1877
+(dp1878
+g4
+VMerengue
+p1879
+sg6
+VNA
+p1880
+sg8
+g9
+ssVExalta Samba
+p1881
+(dp1882
+g4
+VPagode
+p1883
+sg6
+VSão Bernardo do Campo, Brazil
+p1884
+sg8
+(lp1885
+F-23.689584
+aF-46.5647381
+assVO Cancioneiro
+p1886
+(dp1887
+g4
+VGaucha
+p1888
+sg6
+VGiruá - Rio Grande do Sul, Brazil
+p1889
+sg8
+(lp1890
+F-28.02843
+aF-54.3503933
+assVLady Bonilla & Luis Miguel del Amargue
+p1891
+(dp1892
+g4
+VBachata
+p1893
+sg6
+VNA
+p1894
+sg8
+g9
+ssVMichael Stevan
+p1895
+(dp1896
+g4
+VBachata
+p1897
+sg6
+VNA
+p1898
+sg8
+g9
+ssVLuis Miguel Del Amargue
+p1899
+(dp1900
+g4
+VBachata
+p1901
+sg6
+VNA
+p1902
+sg8
+g9
+ssVKaos
+p1903
+(dp1904
+g4
+VMerengue
+p1905
+sg6
+VNA
+p1906
+sg8
+g9
+ssVExtreme
+p1907
+(dp1908
+g4
+VBachata
+p1909
+sg6
+VNA
+p1910
+sg8
+g9
+ssVMargareth Menezes
+p1911
+(dp1912
+g4
+VAxe
+p1913
+sg6
+VSalvador, Bahia, Brazil
+p1914
+sg8
+g58
+ssVEl Torito & Krisspy & Tamarindo
+p1915
+(dp1916
+g4
+VMerengue
+p1917
+sg6
+VNA
+p1918
+sg8
+g9
+ssVCarlos Gardel
+p1919
+(dp1920
+g4
+VTango
+p1921
+sg6
+VNA
+p1922
+sg8
+g9
+ssVGilmelandia
+p1923
+(dp1924
+g4
+VAxe
+p1925
+sg6
+VSalvador, Bahia, Brazil
+p1926
+sg8
+g58
+ssVLonardo
+p1927
+(dp1928
+g4
+VGaucha
+p1929
+sg6
+VNA
+p1930
+sg8
+g9
+ssVLeonardo
+p1931
+(dp1932
+g4
+VGaucha
+p1933
+sg6
+VNA
+p1934
+sg8
+g9
+ssVQuiero hacerte el amor
+p1935
+(dp1936
+g4
+VSalsa
+p1937
+sg6
+VNA
+p1938
+sg8
+g9
+ssVGera Samba
+p1939
+(dp1940
+g4
+VAxe
+p1941
+sg6
+VSalvador, Bahia, Brazil
+p1942
+sg8
+g58
+ssVPedro Vargas
+p1943
+(dp1944
+g4
+VBolero
+p1945
+sg6
+VMexico City (Mexico)
+p1946
+sg8
+g283
+ssVScala 40
+p1947
+(dp1948
+g4
+VSalsa
+p1949
+sg6
+VNA
+p1950
+sg8
+g9
+ssVAxe Blond
+p1951
+(dp1952
+g4
+VAxe
+p1953
+sg6
+VSalvador, Bahia, Brazil
+p1954
+sg8
+g58
+ssVLuiz Gonzaga
+p1955
+(dp1956
+g4
+VForro
+p1957
+sg6
+VRecife (Brazil)
+p1958
+sg8
+g983
+ssVJammil e Uma Noites
+p1959
+(dp1960
+g4
+VAxe
+p1961
+sg6
+VSalvador, Bahia, Brazil
+p1962
+sg8
+g58
+ssVPorca Veia
+p1963
+(dp1964
+g4
+VGaucha
+p1965
+sg6
+VNA
+p1966
+sg8
+g9
+ssVVictor Roque Y La Gran Manzana
+p1967
+(dp1968
+g4
+VMerengue
+p1969
+sg6
+VNA
+p1970
+sg8
+g9
+ssVAnna Belen
+p1971
+(dp1972
+g4
+VBolero
+p1973
+sg6
+VMadrid (Spain)
+p1974
+sg8
+g222
+ssVNovo Ton
+p1975
+(dp1976
+g4
+VAxe
+p1977
+sg6
+VSalvador, Bahia, Brazil
+p1978
+sg8
+g58
+ssVMarc Antony & La India
+p1979
+(dp1980
+g4
+VSalsa
+p1981
+sg6
+VNA
+p1982
+sg8
+g9
+ssVJulio Perceval
+p1983
+(dp1984
+g4
+VTango
+p1985
+sg6
+VNA
+p1986
+sg8
+g9
+ssVAdair de Freitas
+p1987
+(dp1988
+g4
+VGaucha
+p1989
+sg6
+VNA
+p1990
+sg8
+g9
+ssVIsabel Pantoja
+p1991
+(dp1992
+g4
+VBolero
+p1993
+sg6
+VSevilla (Spain)
+p1994
+sg8
+(lp1995
+F37.388096099999999
+aF-5.9823298999999999
+assVAntonio Marques
+p1996
+(dp1997
+g4
+VGaucha
+p1998
+sg6
+VNA
+p1999
+sg8
+g9
+ssVTrio Forrozao
+p2000
+(dp2001
+g4
+VForro
+p2002
+sg6
+VEspirito Santo, Brazil
+p2003
+sg8
+g258
+ssVReynaldo Rey
+p2004
+(dp2005
+g4
+VMerengue
+p2006
+sg6
+VNA
+p2007
+sg8
+g9
+ssVFogo de Chao
+p2008
+(dp2009
+g4
+VGaucha
+p2010
+sg6
+VNA
+p2011
+sg8
+g9
+ssVSimone & Chico Buarque
+p2012
+(dp2013
+g4
+VBolero
+p2014
+sg6
+VSalvador, Bahia, Brazil
+p2015
+sg8
+g58
+ssVSandy & Papo
+p2016
+(dp2017
+g4
+VMerengue
+p2018
+sg6
+VNA
+p2019
+sg8
+g9
+ssVCarmen Duran
+p2020
+(dp2021
+g4
+VBachata
+p2022
+sg6
+VNA
+p2023
+sg8
+g9
+ssVAzucarado & Frank Reyes
+p2024
+(dp2025
+g4
+VBachata
+p2026
+sg6
+VNA
+p2027
+sg8
+g9
+ssVDomenic Marte
+p2028
+(dp2029
+g4
+VBachata
+p2030
+sg6
+VNA
+p2031
+sg8
+g9
+ssVJerry Rivera
+p2032
+(dp2033
+g4
+VSalsa
+p2034
+sg6
+VNA
+p2035
+sg8
+g9
+ssVRay Lopez
+p2036
+(dp2037
+g4
+VMerengue
+p2038
+sg6
+VNA
+p2039
+sg8
+g9
+ssVJose Feliciano
+p2040
+(dp2041
+g4
+VBolero
+p2042
+sg6
+VNew York, NY USA
+p2043
+sg8
+g518
+ssVTito Gomez & Tito Rojas
+p2044
+(dp2045
+g4
+VSalsa
+p2046
+sg6
+VNA
+p2047
+sg8
+g9
+ssVAsa de Aguia
+p2048
+(dp2049
+g4
+VAxe
+p2050
+sg6
+VSalvador, Bahia, Brazil
+p2051
+sg8
+g58
+ssVLeandro & Leonardo
+p2052
+(dp2053
+g4
+VSertaneja
+p2054
+sg6
+VGoianápolis, Goiás, Brazil
+p2055
+sg8
+(lp2056
+F-16.5076921
+aF-49.022196600000001
+assVBeto Viegas
+p2057
+(dp2058
+g4
+VGaucha
+p2059
+sg6
+VNA
+p2060
+sg8
+g9
+ssVZizi Possi
+p2061
+(dp2062
+g4
+VBolero
+p2063
+sg6
+VSão Paulo, Brazil
+p2064
+sg8
+g194
+ssVLuiz Marenco
+p2065
+(dp2066
+g4
+VGaucha
+p2067
+sg6
+VNA
+p2068
+sg8
+g9
+ssVGrupos Querencia
+p2069
+(dp2070
+g4
+VGaucha
+p2071
+sg6
+VNA
+p2072
+sg8
+g9
+ssVRaffy Matias
+p2073
+(dp2074
+g4
+VMerengue
+p2075
+sg6
+VNA
+p2076
+sg8
+g9
+ssVFito Olivares
+p2077
+(dp2078
+g4
+VMerengue
+p2079
+sg6
+VNA
+p2080
+sg8
+g9
+ssVJoanna
+p2081
+(dp2082
+g4
+VBolero
+p2083
+sg6
+VRio de Janeiro (Brazil)
+p2084
+sg8
+g23
+ssVRick Astley
+p2085
+(dp2086
+g4
+VBolero
+p2087
+sg6
+VLondon, England
+p2088
+sg8
+g683
+ssVOs Monarcas
+p2089
+(dp2090
+g4
+VGaucha
+p2091
+sg6
+VNA
+p2092
+sg8
+g9
+ssVJose Alberto
+p2093
+(dp2094
+g4
+VBolero
+p2095
+sg6
+VSanto Domingo (Dominican Republic)
+p2096
+sg8
+(lp2097
+F18.5
+aF-69.983333299999998
+assVLa Linea
+p2098
+(dp2099
+g4
+VMerengue
+p2100
+sg6
+VNA
+p2101
+sg8
+g9
+ssVOsvaldir & Carlos Magrao
+p2102
+(dp2103
+g4
+VGaucha
+p2104
+sg6
+VNA
+p2105
+sg8
+g9
+ssVLos Sabrosos Del Merengue
+p2106
+(dp2107
+g4
+VMerengue
+p2108
+sg6
+VNA
+p2109
+sg8
+g9
+ssVEddie Santiago
+p2110
+(dp2111
+g4
+VSalsa
+p2112
+sg6
+VNA
+p2113
+sg8
+g9
+ssVA- Pedraza
+p2114
+(dp2115
+g4
+VSalsa
+p2116
+sg6
+VNA
+p2117
+sg8
+g9
+ssVLuna Llena
+p2118
+(dp2119
+g4
+VBachata
+p2120
+sg6
+VNA
+p2121
+sg8
+g9
+ssVChitaozinho & Xororo
+p2122
+(dp2123
+g4
+VSertaneja
+p2124
+sg6
+VAstorga, Paraná, Brazil
+p2125
+sg8
+(lp2126
+F-23.224752299999999
+aF-51.663111200000003
+assVE o Tchan
+p2127
+(dp2128
+g4
+VAxe
+p2129
+sg6
+VSalvador, Bahia, Brazil
+p2130
+sg8
+g58
+ssVLa Banda Tuya
+p2131
+(dp2132
+g4
+VMerengue
+p2133
+sg6
+VNA
+p2134
+sg8
+g9
+ssVMonchy & Alexandra
+p2135
+(dp2136
+g4
+VBachata
+p2137
+sg6
+VNA
+p2138
+sg8
+g9
+ssVJoseph Fonseca
+p2139
+(dp2140
+g4
+VBachata
+p2141
+sg6
+VNA
+p2142
+sg8
+g9
+ssVCarlos Cardel
+p2143
+(dp2144
+g4
+VTango
+p2145
+sg6
+VNA
+p2146
+sg8
+g9
+ssVFalamansa & Trio Virgulino
+p2147
+(dp2148
+g4
+VForro
+p2149
+sg6
+VSão Paulo, Brazil
+p2150
+sg8
+g194
+ssVDominicanada
+p2151
+(dp2152
+g4
+VBachata
+p2153
+sg6
+VNA
+p2154
+sg8
+g9
+ssVAstor Piazzolla & Kronos Quartet
+p2155
+(dp2156
+g4
+VTango
+p2157
+sg6
+VNA
+p2158
+sg8
+g9
+ssVDudo Nobre
+p2159
+(dp2160
+g4
+VPagode
+p2161
+sg6
+VRio de Janeiro (Brazil)
+p2162
+sg8
+g23
+ssVEl Gringo de La Bachata
+p2163
+(dp2164
+g4
+VBachata
+p2165
+sg6
+VNA
+p2166
+sg8
+g9
+ssVBanda Chula Y Raymond Pozo
+p2167
+(dp2168
+g4
+VMerengue
+p2169
+sg6
+VNA
+p2170
+sg8
+g9
+ssVMascara salsera
+p2171
+(dp2172
+g4
+VSalsa
+p2173
+sg6
+VNA
+p2174
+sg8
+g9
+ssVJhom Martinez
+p2175
+(dp2176
+g4
+VBachata
+p2177
+sg6
+VNA
+p2178
+sg8
+g9
+ssVKaris
+p2179
+(dp2180
+g4
+VMerengue
+p2181
+sg6
+VNA
+p2182
+sg8
+g9
+ssVArlindo Cruz
+p2183
+(dp2184
+g4
+VPagode
+p2185
+sg6
+VRio de Janeiro (Brazil)
+p2186
+sg8
+g23
+ssVWilfrido Vargas
+p2187
+(dp2188
+g4
+VMerengue
+p2189
+sg6
+VNA
+p2190
+sg8
+g9
+ssVRio Negro & Solimoes
+p2191
+(dp2192
+g4
+VSertaneja
+p2193
+sg6
+VClaraval, Minas Gerais, Brazil
+p2194
+sg8
+(lp2195
+F-20.4004589
+aF-47.284950899999998
+assVBicho de Pe & Trio Virgulino
+p2196
+(dp2197
+g4
+VForro
+p2198
+sg6
+VSão Paulo, Brazil
+p2199
+sg8
+g194
+ssVFlamboyan
+p2200
+(dp2201
+g4
+VBachata
+p2202
+sg6
+VNA
+p2203
+sg8
+g9
+ssVAngelito Villalona
+p2204
+(dp2205
+g4
+VMerengue
+p2206
+sg6
+VNA
+p2207
+sg8
+g9
+ssVGrupo NV
+p2208
+(dp2209
+g4
+VBachata
+p2210
+sg6
+VNA
+p2211
+sg8
+g9
+ss.

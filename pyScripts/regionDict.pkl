@@ -1,0 +1,1896 @@
+(dp1
+VManole Manole
+p2
+(lp3
+(lp4
+F47.651388900000001
+aF26.255555600000001
+aaVMerengue
+p5
+asVNana Caymmi
+p6
+(lp7
+(lp8
+F-12.970381700000001
+aF-38.512382000000002
+aaVBolero
+p9
+asVLeo Almeida
+p10
+(lp11
+g8
+aVGaucha
+p12
+asVNino Segarra
+p13
+(lp14
+(lp15
+F3.4205556000000001
+aF-76.522222200000002
+aaVSalsa
+p16
+asVElvis Crespo
+p17
+(lp18
+(lp19
+F18.466333800000001
+aF-66.105721700000004
+aag5
+asVZeca Pagodinho
+p20
+(lp21
+(lp22
+F-22.903539299999998
+aF-43.209586899999998
+aaVPagode
+p23
+asVMarc Anthony
+p24
+(lp25
+(lp26
+F18.5
+aF-69.983333299999998
+aag16
+asVAlex Leon
+p27
+(lp28
+(lp29
+F25.673210900000001
+aF-100.309201
+aag16
+asVNey Matogrosso
+p30
+(lp31
+(lp32
+F-8.0542774999999995
+aF-34.881256100000002
+aaVForro
+p33
+asVPedro Fernandez
+p34
+(lp35
+(lp36
+F19.432607699999998
+aF-99.133207999999996
+aaVBolero
+p37
+asVGilberto Santa Rosa
+p38
+(lp39
+g15
+aVBolero
+p40
+asVGio
+p41
+(lp42
+(lp43
+F21.033333299999999
+aF105.84999999999999
+aaVBachata
+p44
+asVPuerto Rican Power
+p45
+(lp46
+g15
+ag16
+asVJaime Roos
+p47
+(lp48
+(lp49
+F-34.883611100000003
+aF-56.181944399999999
+aag16
+asVGal Costa
+p50
+(lp51
+g8
+aVBolero
+p52
+asVManolo
+p53
+(lp54
+(lp55
+F40.416775399999999
+aF-3.7037901999999998
+aaVGaucha
+p56
+asVLa Makina
+p57
+(lp58
+(lp59
+F10.64504
+aF-71.63715400000001
+aag5
+asVAida Cuevas
+p60
+(lp61
+(lp62
+F28.630580999999999
+aF-106.0737
+aaVBolero
+p63
+asVLa Magia
+p64
+(lp65
+(lp66
+F27.8812222
+aF78.068045799999993
+aag5
+asVMaremoto
+p67
+(lp68
+(lp69
+F-33.469119900000003
+aF-70.641997000000003
+aag5
+asVRoberto Carlos
+p70
+(lp71
+g32
+aVBolero
+p72
+asVOs Tiranos
+p73
+(lp74
+(lp75
+F-25.428356300000001
+aF-49.273251500000001
+aaVGaucha
+p76
+asVCaiana
+p77
+(lp78
+(lp79
+F-19.919067699999999
+aF-43.938574699999997
+aaVForro
+p80
+asVAri Santos
+p81
+(lp82
+(lp83
+F-23.548943300000001
+aF-46.638818200000003
+aaVGaucha
+p84
+asVZizi Possi
+p85
+(lp86
+g32
+aVBolero
+p87
+asVAnthony Santos
+p88
+(lp89
+(lp90
+F19.455649999999999
+aF-70.707190999999995
+aaVBachata
+p91
+asVOs Farrapos
+p92
+(lp93
+(lp94
+F-30.027704100000001
+aF-51.228734600000003
+aaVGaucha
+p95
+asVEl Bonche
+p96
+(lp97
+g90
+ag5
+asVJose Alberto
+p98
+(lp99
+g26
+aVBolero
+p100
+asVGilberto Gil
+p101
+(lp102
+g8
+aVForro
+p103
+asVReinaldo
+p104
+(lp105
+(lp106
+F10.2469444
+aF-67.596111100000002
+aaVBolero
+p107
+asVRaulin Rosendo
+p108
+(lp109
+g26
+ag16
+asVMarisa monte
+p110
+(lp111
+g8
+aVBolero
+p112
+asVJose Ricardo, Guillermo Barbieri, Jose Maria Aguilar
+p113
+(lp114
+(lp115
+F-23.1790801
+aF-45.887247599999988
+aaVTango
+p116
+asVOs Mateadores
+p117
+(lp118
+(lp119
+F-29.6858073
+aF-53.807487100000003
+aaVGaucha
+p120
+asVMPB4
+p121
+(lp122
+g79
+aVBolero
+p123
+asVAstor Piazzolla
+p124
+(lp125
+(lp126
+F-34.603723199999997
+aF-58.381593100000003
+aag116
+asVCandieiro
+p127
+(lp128
+(lp129
+F-23.1864533
+aF-46.884452699999997
+aaVGaucha
+p130
+asVAmarfis
+p131
+(lp132
+g26
+ag5
+asVJossie Esteban
+p133
+(lp134
+g26
+ag5
+asVAlberto Llanos
+p135
+(lp136
+g69
+aVBachata
+p137
+asVAs Meninas
+p138
+(lp139
+g8
+aVAxe
+p140
+asVDjavan
+p141
+(lp142
+(lp143
+F-9.6662514999999996
+aF-35.735098299999997
+aaVBolero
+p144
+asVGrupo Sensacao
+p145
+(lp146
+g83
+aVPagode
+p147
+asVTony Rivas
+p148
+(lp149
+g36
+ag5
+asVGrupo minuano
+p150
+(lp151
+(lp152
+F-24.955450299999999
+aF-53.455236100000008
+aaVGaucha
+p153
+asVCana Brava
+p154
+(lp155
+(lp156
+F-5.2000000000000002
+aF-80.63333329999999
+aag5
+asVGonzaguinha
+p157
+(lp158
+(lp159
+F-3.7183942999999999
+aF-38.543394800000002
+aaVBolero
+p160
+asVTina Turner
+p161
+(lp162
+(lp163
+F52.370215700000003
+aF4.8951679000000006
+aaVBolero
+p164
+asVMarc Antony
+p165
+(lp166
+(lp167
+F8.9942688999999998
+aF-79.518791999999991
+aaVBolero
+p168
+asVPalo Nuevo
+p169
+(lp170
+g55
+ag5
+asVLos Toros Band
+p171
+(lp172
+(lp173
+F14.624795000000001
+aF-90.532817999999992
+aag5
+asVPaulo Costa
+p174
+(lp175
+(lp176
+F-1.4550205
+aF-48.502368199999999
+aaVGaucha
+p177
+asVZona Roja
+p178
+(lp179
+(lp180
+F-25.282197199999999
+aF-57.635099999999987
+aag5
+asVMichell
+p181
+(lp182
+g36
+aVBachata
+p183
+asVLuiz Carlos Borges
+p184
+(lp185
+g94
+aVGaucha
+p186
+asVJoe Veras
+p187
+(lp188
+g90
+ag5
+asVWilly Gonzalez
+p189
+(lp190
+(lp191
+F10.491016
+aF-66.902061000000003
+aag16
+asVZacarias Ferreira
+p192
+(lp193
+(lp194
+F18.43
+aF-68.969999999999999
+aaVBachata
+p195
+asVAlejandro Fernandez
+p196
+(lp197
+(lp198
+F20.673590000000001
+aF-103.34380299999999
+aaVBolero
+p199
+asVFrancisco Xavier
+p200
+(lp201
+(lp202
+F-16.499009900000001
+aF-68.146248
+aaVBolero
+p203
+asVLuis marenco
+p204
+(lp205
+g119
+aVGaucha
+p206
+asVLeo Marini
+p207
+(lp208
+(lp209
+F6.2359249999999999
+aF-75.575136999999998
+aaVBolero
+p210
+asVPedro Ortaca
+p211
+(lp212
+g119
+aVGaucha
+p213
+asVRoberto Blades
+p214
+(lp215
+g15
+ag16
+asVClase aparte
+p216
+(lp217
+(lp218
+F4.5980555999999986
+aF-74.075833299999999
+aag5
+asVD.R.
+p219
+(lp220
+(lp221
+F38.725299300000003
+aF-9.1500364000000012
+aag16
+asVLos Tres Caballeros
+p222
+(lp223
+g36
+aVBolero
+p224
+asVRoberto Torres
+p225
+(lp226
+g36
+ag16
+asVOlodum
+p227
+(lp228
+g8
+aVAxe
+p229
+asVExtreme
+p230
+(lp231
+(lp232
+F43.653225999999997
+aF-79.383184299999996
+aaVBachata
+p233
+asVDez Anos
+p234
+(lp235
+(lp236
+F-3.1064093000000002
+aF-60.026429699999987
+aaVBolero
+p237
+asVShakira
+p238
+(lp239
+g36
+aVBolero
+p240
+asVYoskar Sarante
+p241
+(lp242
+g90
+aVBachata
+p243
+asVLucho Gatica
+p244
+(lp245
+g26
+aVBolero
+p246
+asVTatiana
+p247
+(lp248
+(lp249
+F9.9271279999999997
+aF-84.082011999999992
+aaVBolero
+p250
+asVCesar passarinho
+p251
+(lp252
+g94
+aVGaucha
+p253
+asVMinuano
+p254
+(lp255
+(lp256
+F-31.328502
+aF-54.107269899999999
+aaVGaucha
+p257
+asVEl Jeffrey
+p258
+(lp259
+g26
+aVBachata
+p260
+asVTrio Virgulino
+p261
+(lp262
+g83
+aVForro
+p263
+asVArena Fina
+p264
+(lp265
+g55
+ag5
+asVArt Popular
+p266
+(lp267
+g83
+aVPagode
+p268
+asVMimi Ibarra
+p269
+(lp270
+g26
+ag16
+asVOs Serranos
+p271
+(lp272
+(lp273
+F-25.0945465
+aF-50.163287300000007
+aaVGaucha
+p274
+asVBanda Eva
+p275
+(lp276
+g8
+aVAxe
+p277
+asVEl Gran Combo
+p278
+(lp279
+g19
+ag16
+asVBanda X
+p280
+(lp281
+g75
+ag5
+asVGrupo Deseo
+p282
+(lp283
+(lp284
+F-0.2170967
+aF-78.5169882
+aaVBachata
+p285
+asVLuis Miguel del Amargue
+p286
+(lp287
+g26
+aVBachata
+p288
+asVDudu Nobre
+p289
+(lp290
+g22
+aVPagode
+p291
+asVLuiz Bastos
+p292
+(lp293
+g22
+aVGaucha
+p294
+asVGiro
+p295
+(lp296
+(lp297
+F-15.5989173
+aF-56.094893999999996
+aag16
+asVCheiro de Amor
+p298
+(lp299
+g8
+aVAxe
+p300
+asVJoao Bosco
+p301
+(lp302
+(lp303
+F-20.443505300000002
+aF-54.647759099999988
+aaVBolero
+p304
+asVTego Calderon
+p305
+(lp306
+g191
+aVBachata
+p307
+asVCana  Brava
+p308
+(lp309
+g156
+ag5
+asVParatodos
+p310
+(lp311
+g8
+aVForro
+p312
+asVPapi Sanchez
+p313
+(lp314
+(lp315
+F50.850339599999998
+aF4.3517102999999997
+aag5
+asVRubby Perez
+p316
+(lp317
+g90
+ag5
+asVO Cancioneiro
+p318
+(lp319
+g221
+aVGaucha
+p320
+asVRey Ruiz
+p321
+(lp322
+g15
+ag16
+asVAraketo
+p323
+(lp324
+g8
+aVAxe
+p325
+asVIsabel Pantoja
+p326
+(lp327
+(lp328
+F37.388096099999999
+aF-5.9823298999999999
+aaVBolero
+p329
+asVBabado Novo
+p330
+(lp331
+(lp332
+F-5.7944784999999994
+aF-35.210953099999998
+aaVAxe
+p333
+asVGarotos de Ouro
+p334
+(lp335
+(lp336
+F-27.596903900000001
+aF-48.549454399999988
+aaVGaucha
+p337
+asVJose Manuel
+p338
+(lp339
+g221
+aVBachata
+p340
+asVLulu Santos
+p341
+(lp342
+g32
+aVBolero
+p343
+asVKaos
+p344
+(lp345
+(lp346
+F-7.7972239999999999
+aF110.368797
+aag5
+asVAmerica
+p347
+(lp348
+(lp349
+F34.052234200000001
+aF-118.24368490000001
+aaVBolero
+p350
+asVMaria Bethania
+p351
+(lp352
+g8
+aVBolero
+p353
+asVAlejandro Sanz
+p354
+(lp355
+g55
+aVBolero
+p356
+asVBruno & Marrone
+p357
+(lp358
+g83
+aVSertaneja
+p359
+asVFafa De Belem
+p360
+(lp361
+g176
+aVBolero
+p362
+asVDLG
+p363
+(lp364
+(lp365
+F57.0488195
+aF9.9217469999999999
+aag16
+asVJeito Moleque
+p366
+(lp367
+g32
+aVPagode
+p368
+asVMargareth Menezes
+p369
+(lp370
+g8
+aVAxe
+p371
+asVJammil e Uma Noites
+p372
+(lp373
+g8
+aVAxe
+p374
+asVEl Combo Dominicano
+p375
+(lp376
+(lp377
+F28.1131545
+aF-15.4408832
+aag5
+asVTrio Nordestino
+p378
+(lp379
+(lp380
+F-10.909151100000001
+aF-37.074454199999998
+aaVForro
+p381
+asVLuis Carlos Pereira
+p382
+(lp383
+g83
+aVGaucha
+p384
+asVTonny Tun Tun
+p385
+(lp386
+g55
+aVBachata
+p387
+asVDany Brillant
+p388
+(lp389
+(lp390
+F48.856614
+aF2.3522219
+aaVBolero
+p391
+asVCarlos Gardel
+p392
+(lp393
+g49
+ag116
+asVGilmelandia
+p394
+(lp395
+g8
+aVAxe
+p396
+asVOs Travessos
+p397
+(lp398
+(lp399
+F-31.771132000000001
+aF-52.343085600000002
+aaVPagode
+p400
+asVLa Fuerza
+p401
+(lp402
+g191
+ag5
+asVJulio Madrid
+p403
+(lp404
+g55
+aVBolero
+p405
+asVFernando Villalona
+p406
+(lp407
+g90
+ag5
+asVJosean
+p408
+(lp409
+(lp410
+F43.318334
+aF-1.9812312999999999
+aag16
+asVQuiero hacerte el amor
+p411
+(lp412
+g180
+ag16
+asVRey Sepulveda
+p413
+(lp414
+g349
+aVBachata
+p415
+asVCarmen Duran
+p416
+(lp417
+(lp418
+F39.469907499999998
+aF-0.37628810000000001
+aaVBachata
+p419
+asVGera Samba
+p420
+(lp421
+g8
+aVAxe
+p422
+asVPedro Vargas
+p423
+(lp424
+g26
+aVBolero
+p425
+asVJulian
+p426
+(lp427
+(lp428
+F32.715329199999999
+aF-117.1572551
+aag5
+asVSwing & Simpatia
+p429
+(lp430
+g22
+aVPagode
+p431
+asVAxe Blond
+p432
+(lp433
+g83
+aVAxe
+p434
+asVCarla Cristina
+p435
+(lp436
+g209
+aVAxe
+p437
+asVTche Barbaridade
+p438
+(lp439
+g94
+aVGaucha
+p440
+asVAsa de Aguia
+p441
+(lp442
+g332
+aVAxe
+p443
+asVExtra Banda
+p444
+(lp445
+g75
+ag5
+asVPorca Veia
+p446
+(lp447
+g94
+aVGaucha
+p448
+asVDomenic Marte
+p449
+(lp450
+g126
+aVBachata
+p451
+asVAnna Belen
+p452
+(lp453
+(lp454
+F40.851774599999999
+aF14.2681244
+aaVBolero
+p455
+asVTito Rojas
+p456
+(lp457
+(lp458
+F8.3721549999999993
+aF-62.643859999999989
+aag16
+asVNovo Ton
+p459
+(lp460
+g83
+aVAxe
+p461
+asVThe Bangles
+p462
+(lp463
+(lp464
+F-33.867486900000003
+aF151.20699020000001
+aaVBolero
+p465
+asVKiloucura
+p466
+(lp467
+g22
+aVPagode
+p468
+asVBicho De Pe
+p469
+(lp470
+(lp471
+F-23.689584
+aF-46.5647381
+aaVForro
+p472
+asVCelia Cruz
+p473
+(lp474
+g15
+ag16
+asVElvis Martinez
+p475
+(lp476
+g90
+aVBachata
+p477
+asVEnrique Feliz
+p478
+(lp479
+g36
+aVBachata
+p480
+asVTeodoro & Sampaio
+p481
+(lp482
+g83
+aVSertaneja
+p483
+asVAntonio Marques
+p484
+(lp485
+g221
+aVGaucha
+p486
+asVTono Rosario
+p487
+(lp488
+g194
+ag5
+asVAngelica Maria
+p489
+(lp490
+g69
+aVBolero
+p491
+asVTrio Forrozao
+p492
+(lp493
+(lp494
+F-20.315360200000001
+aF-40.301767300000002
+aaVForro
+p495
+asVOs Sungas
+p496
+(lp497
+g8
+aVAxe
+p498
+asVOro Duro
+p499
+(lp500
+g26
+ag5
+asVAnthony Cruz
+p501
+(lp502
+g26
+ag16
+asVJoao chagas leite
+p503
+(lp504
+g94
+aVGaucha
+p505
+asVLuis Vargas
+p506
+(lp507
+g90
+aVBachata
+p508
+asVJuan Luis Guerra
+p509
+(lp510
+g26
+aVBolero
+p511
+asVRaulin Rodriguez
+p512
+(lp513
+g90
+aVBachata
+p514
+asVBoka Loka
+p515
+(lp516
+g159
+aVPagode
+p517
+asVGrupo Niche
+p518
+(lp519
+g15
+ag16
+asVDoris Day
+p520
+(lp521
+(lp522
+F40.7143528
+aF-74.005973099999991
+aaVBolero
+p523
+asVPedro Conga
+p524
+(lp525
+g15
+ag16
+asVBachata Music
+p526
+(lp527
+g522
+aVBolero
+p528
+asVEl Chaval
+p529
+(lp530
+g90
+aVBachata
+p531
+asVRicky Castro
+p532
+(lp533
+g126
+ag5
+asVRuben Blades
+p534
+(lp535
+g167
+ag16
+asVGloria Estefan
+p536
+(lp537
+(lp538
+F25.7889689
+aF-80.226439299999996
+aaVBolero
+p539
+asVDaniela Mercury
+p540
+(lp541
+g8
+aVAxe
+p542
+asVAlma Serrana
+p543
+(lp544
+g303
+aVGaucha
+p545
+asVMariano
+p546
+(lp547
+g173
+aVBolero
+p548
+asVRastape
+p549
+(lp550
+g332
+aVForro
+p551
+asVPrimera clase
+p552
+(lp553
+(lp554
+F-32.950740799999998
+aF-60.666500100000007
+aag16
+asVJerry Rivera
+p555
+(lp556
+g66
+ag16
+asVRita de Cassia
+p557
+(lp558
+g332
+aVBolero
+p559
+asVSasha
+p560
+(lp561
+g36
+aVBolero
+p562
+asVSafire
+p563
+(lp564
+(lp565
+F46.580224000000008
+aF0.34037499999999998
+aag16
+asVFrank Sinatra
+p566
+(lp567
+g522
+aVBolero
+p568
+asVAndy Aguilera
+p569
+(lp570
+(lp571
+F-17.8666667
+aF-63
+aaVBachata
+p572
+asVDon Andres
+p573
+(lp574
+g191
+ag5
+asVJose Feliciano
+p575
+(lp576
+g66
+aVBolero
+p577
+asVTulile
+p578
+(lp579
+g26
+ag5
+asVWilly Chirino
+p580
+(lp581
+(lp582
+F25.857596300000001
+aF-80.278105699999998
+aaVBolero
+p583
+asVGuilherme & Santiago
+p584
+(lp585
+g83
+aVSertaneja
+p586
+asVRay Lopez
+p587
+(lp588
+g349
+ag5
+asVBelchior
+p589
+(lp590
+g159
+aVBolero
+p591
+asVAlex Bueno
+p592
+(lp593
+g90
+aVBachata
+p594
+asVLeonardo
+p595
+(lp596
+(lp597
+F41.892916300000003
+aF12.4825199
+aaVGaucha
+p598
+asVGrupo Renascenca
+p599
+(lp600
+g22
+aVGaucha
+p601
+asVLonardo
+p602
+(lp603
+g454
+aVGaucha
+p604
+asVEduardo Dusek
+p605
+(lp606
+g22
+aVBolero
+p607
+asVSorriso Maroto
+p608
+(lp609
+g22
+aVPagode
+p610
+asVLinda Ronstadt
+p611
+(lp612
+g349
+aVBolero
+p613
+asVLupita d'Alessio
+p614
+(lp615
+(lp616
+F17.987556999999999
+aF-92.929147
+aaVBolero
+p617
+asVNueva Era
+p618
+(lp619
+(lp620
+F-37.317810100000003
+aF-59.150390600000001
+aaVBachata
+p621
+asVAfricando
+p622
+(lp623
+g390
+ag16
+asVQuero Quero
+p624
+(lp625
+g22
+aVGaucha
+p626
+asVPatchanka
+p627
+(lp628
+g8
+aVAxe
+p629
+asVZeze Di Camargo & Luciano
+p630
+(lp631
+g83
+aVSertaneja
+p632
+asVRuben Dario
+p633
+(lp634
+(lp635
+F12.1363889
+aF-86.251388900000009
+aag16
+asVRick & Renner
+p636
+(lp637
+g83
+aVSertaneja
+p638
+asVJose Juan
+p639
+(lp640
+g55
+ag5
+asVTeodoro e Sampaio
+p641
+(lp642
+g152
+aVSertaneja
+p643
+asVMagneto
+p644
+(lp645
+g126
+aVBolero
+p646
+asVOz Bambaz
+p647
+(lp648
+(lp649
+F-2.5307312
+aF-44.306825799999999
+aaVAxe
+p650
+asVCharlie Zaa
+p651
+(lp652
+g167
+aVBolero
+p653
+asVLuiz Marenco
+p654
+(lp655
+g119
+aVGaucha
+p656
+asVAventura
+p657
+(lp658
+g538
+aVBachata
+p659
+asVFito Olivares
+p660
+(lp661
+(lp662
+F26.057534499999999
+aF-98.284886700000001
+aag5
+asVJoanna
+p663
+(lp664
+(lp665
+F52.2296756
+aF21.012228700000001
+aaVBolero
+p666
+asVRick Astley
+p667
+(lp668
+g464
+aVBolero
+p669
+asVFalamansa
+p670
+(lp671
+g143
+aVForro
+p672
+asVCristian Cristian
+p673
+(lp674
+(lp675
+F44.432499999999997
+aF26.103888900000001
+aaVBachata
+p676
+asVScala 40
+p677
+(lp678
+g454
+ag16
+asVOs Monarcas
+p679
+(lp680
+(lp681
+F-28.261162800000001
+aF-52.4083349
+aaVGaucha
+p682
+asVTrad
+p683
+(lp684
+g390
+ag16
+asVLa Banda Gorda
+p685
+(lp686
+g26
+ag5
+asVLa Linea
+p687
+(lp688
+(lp689
+F36.132976900000003
+aF-5.4539089999999986
+aag5
+asVEl Costo De La Vida
+p690
+(lp691
+g69
+ag5
+asVOlga Tanon
+p692
+(lp693
+g191
+ag5
+asVGrupo Revelacao
+p694
+(lp695
+g22
+aVPagode
+p696
+asVEdwin
+p697
+(lp698
+g163
+ag16
+asVLeila Pinheiro
+p699
+(lp700
+g22
+aVBolero
+p701
+asVKatinguele
+p702
+(lp703
+g83
+aVPagode
+p704
+asVLuna Llena
+p705
+(lp706
+g69
+aVBachata
+p707
+asVChitaozinho & Xororo
+p708
+(lp709
+g83
+aVSertaneja
+p710
+asVBanda Beijo
+p711
+(lp712
+g8
+aVAxe
+p713
+asVEmilio Santiago
+p714
+(lp715
+g32
+aVBolero
+p716
+asVLos Tres Ases
+p717
+(lp718
+g36
+aVBolero
+p719
+asVE o Tchan
+p720
+(lp721
+g380
+aVAxe
+p722
+asVEdson & Hudson
+p723
+(lp724
+g83
+aVSertaneja
+p725
+asVJavier Solis
+p726
+(lp727
+g36
+aVBolero
+p728
+asVReginaldo Rossi
+p729
+(lp730
+g32
+aVBolero
+p731
+asVHarmonia do Samba
+p732
+(lp733
+(lp734
+F-12.2554649
+aF-38.954287399999998
+aaVAxe
+p735
+asVJoseph Fonseca
+p736
+(lp737
+(lp738
+F18.1992586
+aF-66.070144900000003
+aaVBachata
+p739
+asVVarios
+p740
+(lp741
+g209
+aVBachata
+p742
+asVBanda Cheiro de Amor
+p743
+(lp744
+g8
+aVAxe
+p745
+asVFrank Reyes
+p746
+(lp747
+g194
+aVBachata
+p748
+asVRoupa Nova
+p749
+(lp750
+g32
+aVBolero
+p751
+asVSimone
+p752
+(lp753
+g597
+aVBolero
+p754
+asVChaney
+p755
+(lp756
+g15
+ag16
+asVEDDIE SANTIAGO
+p757
+(lp758
+g15
+ag16
+asVTerra Samba
+p759
+(lp760
+g8
+aVAxe
+p761
+asVRuben Del Rio
+p762
+(lp763
+g55
+aVBachata
+p764
+asVThalia
+p765
+(lp766
+(lp767
+F53.551084600000003
+aF9.9936817999999992
+aaVBolero
+p768
+asVMaelo
+p769
+(lp770
+g191
+ag16
+asVOs Nativos
+p771
+(lp772
+g94
+aVGaucha
+p773
+asVTche Garotos
+p774
+(lp775
+g119
+aVGaucha
+p776
+asVSanta Esmeralda
+p777
+(lp778
+g79
+aVBolero
+p779
+asVEstakazero
+p780
+(lp781
+g8
+aVForro
+p782
+asVPaulo Siqueira
+p783
+(lp784
+g83
+aVGaucha
+p785
+asVAndy Andy
+p786
+(lp787
+(lp788
+F51.511213899999987
+aF-0.1198244
+aag5
+asVRaul Seixas
+p789
+(lp790
+g8
+aVBolero
+p791
+asVOs Morenos
+p792
+(lp793
+g22
+aVPagode
+p794
+asVAvioes do Forro
+p795
+(lp796
+(lp797
+F-5.1880360999999997
+aF-37.344134400000002
+aaVForro
+p798
+asVMarina Lima
+p799
+(lp800
+g66
+aVBolero
+p801
+asVLuiz Gonzaga
+p802
+(lp803
+(lp804
+F-28.407398499999999
+aF-54.961304899999988
+aaVForro
+p805
+asVLuis Enrique
+p806
+(lp807
+g173
+ag16
+asVHomeboys
+p808
+(lp809
+(lp810
+F-1.2920659000000001
+aF36.821946199999999
+aag5
+asVCaetano Veloso
+p811
+(lp812
+g8
+aVBolero
+p813
+asVGrupo liberdade
+p814
+(lp815
+g83
+aVGaucha
+p816
+asVOrquesta Caracas
+p817
+(lp818
+g191
+ag5
+asVExalta Samba
+p819
+(lp820
+g32
+aVPagode
+p821
+asVLuis Manuel
+p822
+(lp823
+(lp824
+F22.156469900000001
+aF-100.9855409
+aaVBachata
+p825
+asVKaris
+p826
+(lp827
+(lp828
+F59.974437300000012
+aF23.435507099999999
+aag5
+asVArlindo Cruz
+p829
+(lp830
+g22
+aVPagode
+p831
+asVWilfrido Vargas
+p832
+(lp833
+g26
+ag5
+asVChico Buarque
+p834
+(lp835
+g32
+aVBolero
+p836
+asVBatom Na Cueca
+p837
+(lp838
+g83
+aVAxe
+p839
+asVTimbalada
+p840
+(lp841
+g8
+aVAxe
+p842
+asVMano Lima
+p843
+(lp844
+g119
+aVGaucha
+p845
+asVJayme caetano braun
+p846
+(lp847
+g119
+aVGaucha
+p848
+asVFogo de Chao
+p849
+(lp850
+g83
+aVGaucha
+p851
+asVMala Fe
+p852
+(lp853
+g26
+ag5
+asVKiko Rodriguez
+p854
+(lp855
+g90
+aVBachata
+p856
+asVBanda Mel
+p857
+(lp858
+(lp859
+F-7.1153199999999996
+aF-34.861051199999999
+aaVAxe
+p860
+asVArnaldo
+p861
+(lp862
+g83
+ag5
+asVManny Manuel
+p863
+(lp864
+g19
+ag5
+asVAntonio Banderas
+p865
+(lp866
+g55
+aVBolero
+p867
+asVJuan Manuel
+p868
+(lp869
+g126
+aVBachata
+p870
+asVAlessander
+p871
+(lp872
+g83
+ag5
+asVIvete Sangalo
+p873
+(lp874
+g8
+aVAxe
+p875
+asVDichen
+p876
+(lp877
+g464
+aVBachata
+p878
+asVLuis Miguel
+p879
+(lp880
+g36
+aVBolero
+p881
+asVCheque Especial
+p882
+(lp883
+g79
+aVBolero
+p884
+asVGrupo Mio
+p885
+(lp886
+g26
+ag5
+asVFlamboyan
+p887
+(lp888
+g19
+aVBachata
+p889
+asVMambo
+p890
+(lp891
+(lp892
+F-6.211544
+aF106.84517200000001
+aag5
+asVNetinho
+p893
+(lp894
+g8
+aVAxe
+p895
+asVElymar Santos
+p896
+(lp897
+g22
+aVBolero
+p898
+asVVictor Manuelle
+p899
+(lp900
+g19
+ag16
+asVGrupo Mania
+p901
+(lp902
+g19
+ag5
+asVGrupo Rodeio
+p903
+(lp904
+g681
+aVGaucha
+p905
+as.
