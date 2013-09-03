@@ -24,7 +24,7 @@ def gather_scores(dsetPath, cur_arch, scalarsPath, dims, validFold=8, fPrefix=''
     clf.fit(dset,0.1,batch_size=batchSize,print_freq=1000,EVAL_ALL=False, n_iter=4000)
 
     print 'validating'
-    y_values,fNames, confidenceInc, confidenceCor, correctNames = L.pred_dset_mean(clf,dset,'valid')
+    y_values,fNames, confidenceInc, confidenceCor, correctNames, allData = L.pred_dset_mean(clf,dset,'valid')
     results = {'y_values':y_values,'missedFNames':fNames, 'confidenceInc':confidenceInc, 'confidenceCor':confidenceCor, 'correctFNames':correctNames}
     fNames.sort()
     printScores(cur_arch, y_values, dset, fPrefix, fNames)
@@ -33,7 +33,7 @@ def gather_scores(dsetPath, cur_arch, scalarsPath, dims, validFold=8, fPrefix=''
         newDir = '/Users/Tlacael/NYU/RhythmData/lmd_runs/'+fPrefix[:-6] +'/'
         t = time.localtime()
         curFile = newDir+fPrefix[-5:]+'_'+str(t.tm_hour)+'-'+str(t.tm_min)+'_'+str(t.tm_mday)+'-'+str(t.tm_mon)+'-'+str(t.tm_year)+'_lmd_run_results.pkl'
-        pickle.dump(results,open(curFile, 'w' ))
+        pickle.dump(allData,open(curFile, 'w' ))
         
 
 

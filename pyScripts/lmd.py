@@ -79,6 +79,7 @@ def import_data(hdfile, didx=0, dpath=BASE_PATH, PASS=False, dname='LMD'):
     genres = {}
      
     for f in collect_mat_files(dpath,dname, didx):
+        print f
         data = loadmat(f)
         g = data['genre'][0]
         print f
@@ -250,6 +251,7 @@ def pred_dset_mean(clf, dset, fold_set):
     correctFNames = []
     confidenceCor = []
     confidenceInc = []
+    allData=[]
 
     for i,y in dset.split_idx[fold_set]:
         x,yi, fName = dset.get(i)
@@ -257,13 +259,14 @@ def pred_dset_mean(clf, dset, fold_set):
         p = clf.fx_output(dset.reshape_batch(x))
         y_pred = np.mean(p,axis=0).argmax()
         y_values += [(y, y_pred)]
+        allData.append([map(prettyfloat,(p.mean(axis=0))*100), fName,y,y_pred])
         if y != y_pred:
             fNames += [str(y)+'-'+str(y_pred)+'-'+fName]
             confidenceInc += [map(prettyfloat,(p.mean(axis=0))*100)]
         else:
             correctFNames += [str(y)+'-'+str(y_pred)+'-'+fName]
             confidenceCor += [map(prettyfloat,(p.mean(axis=0))*100)]
-    return np.asarray(y_values), fNames, confidenceInc, confidenceCor, correctFNames     
+    return np.asarray(y_values), fNames, confidenceInc, confidenceCor, correctFNames, allData     
         
 def pred_dset_weight_vote(fx_output, dset, fold_set):
     """
